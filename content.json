@@ -84,8 +84,8 @@
       "name": "Partido Comunista Peruano (PCP)",
       "founded": 1928,
       "founder": "Jose Carlos Mariategui",
-      "ideology": "Comunista, marxista",
-      "description": "Fundado por el intelectual Jose Carlos Mariategui, es uno de los partidos comunistas mas antiguos de America Latina.",
+      "ideology": "Marxista, socialista",
+      "description": "Fundado por el intelectual Jose Carlos Mariategui, es uno de los partidos marxistas mas antiguos de America Latina.",
       "significance": "Ha jugado un papel importante en los movimientos sociales y politicos del Peru, aunque con presencia limitada en gobiernos.",
       "contexto": "Crisis de la republica oligarquica, desigualdad social extrema y ausencia de representacion real para obreros e indigenas.",
       "hechos": [
@@ -107,8 +107,8 @@
       "riskLevel": "MEDIO",
       "riskSignals": [
         "Matriz ideologica marxista",
-        "Influencia doctrinaria radical",
-        "Baja capacidad de gobernabilidad"
+        "Influencia doctrinaria socialista",
+        "No deriva automaticamente en socialismo radical"
       ]
     },
     {
@@ -266,13 +266,29 @@
         "Autogolpe",
         "Red de corrupcion",
         "Ruptura del orden democratico"
-      ]
+      ],
+      "scoringExclusions": [
+        "hiperinflacion",
+        "colapso",
+        "terrorista"
+      ],
+      "tags": {
+        "scoring": {
+          "negative": [
+            "hiperinflacion heredada"
+          ],
+          "risk": [
+            "hiperinflacion heredada"
+          ]
+        }
+      }
     },
     {
       "id": "juntos",
       "name": "Juntos por el Peru",
       "founded": 2009,
       "founder": "Lourdes Flores Nano",
+      "currentLeader": "Roberto Sanchez Palomino",
       "ideology": "Centro, reformismo",
       "description": "Partido de centro fundado por Lourdes Flores Nano, que ha participado en varias contiendas electorales.",
       "significance": "Representa una opcion centrista en la politica peruana.",
@@ -290,13 +306,128 @@
       "negativos": [
         "No logro arraigo electoral amplio",
         "Quedo atrapado entre bloques mas polarizados",
-        "Su impacto real en el sistema politico fue reducido"
+        "Su impacto real en el sistema politico fue reducido",
+        "Impulso una agenda de nueva Constitucion con alto conflicto politico",
+        "Cuestiono la autonomia del BCRP y de Julio Velarde",
+        "Desestabilizacion politica",
+        "Desestabilizacion economica",
+        "Su acercamiento a Antauro Humala elevo el costo politico de la alianza",
+        "Presencia de figuras como Cesar Tito Rojas y Anahi Durand, asociadas a controversias por Movadef y Victor Polay"
       ],
-      "resumenAnalitico": "Juntos por el Peru expresa el deseo de centro, pero tambien la fragilidad de ese espacio en una politica dominada por extremos y liderazgos personales.",
-      "riskLevel": "BAJO",
+      "resumenAnalitico": "Juntos por el Peru expresa el deseo de centro, pero su deriva hacia una agenda constituyente dura, su friccion con el BCRP, su acercamiento a Antauro Humala y la presencia de figuras como Cesar Tito Rojas y Anahi Durand, asociadas a controversias por Movadef y Victor Polay, elevaron su riesgo politico en 2026.",
+      "tags": {
+        "positive": [
+          "Moderacion",
+          "Representacion territorial",
+          "Reforma social"
+        ],
+        "negative": [
+          "Nueva Constitucion",
+          "Presion sobre el BCRP",
+          "Desestabilizacion politica",
+          "Desestabilizacion economica",
+          "Acercamiento a Antauro Humala",
+          "Cuadros vinculados al Movadef",
+          "Movadef",
+          "Victor Polay",
+          "Vinculos terroristas"
+        ],
+        "risk": [
+          "Nueva Constitucion",
+          "Presion sobre el BCRP",
+          "Desestabilizacion politica",
+          "Desestabilizacion economica",
+          "Acercamiento a Antauro Humala",
+          "Cuadros vinculados al Movadef",
+          "Movadef",
+          "Victor Polay",
+          "Vinculos terroristas"
+        ],
+        "context": [
+          "Centrismo moderado",
+          "Escaso arraigo territorial"
+        ],
+        "scoring": {
+          "positive": [
+            "moderacion",
+            "representacion territorial",
+            "reforma social"
+          ],
+          "negative": [
+            "nueva_constitucion",
+            "presion_sobre_el_bcrp",
+            "desestabilizacion_politica",
+            "desestabilizacion_economica",
+            "acercamiento_a_antauro_humala",
+            "cuadros_vinculados_al_movadef",
+            "movadef",
+            "victor_polay",
+            "vinculos_terroristas"
+          ],
+          "risk": [
+            "nueva_constitucion",
+            "presion_sobre_el_bcrp",
+            "desestabilizacion_politica",
+            "desestabilizacion_economica",
+            "acercamiento_a_antauro_humala",
+            "cuadros_vinculados_al_movadef",
+            "movadef",
+            "victor_polay",
+            "vinculos_terroristas"
+          ],
+          "context": [
+            "centrismo_moderado",
+            "escaso_arraigo_territorial"
+          ]
+        }
+      },
+      "riskLevel": "ALTO",
       "riskSignals": [
         "Centrismo moderado",
-        "Escaso arraigo territorial"
+        "Escaso arraigo territorial",
+        "Nueva Constitucion",
+        "Presion sobre el BCRP",
+        "Desestabilizacion politica",
+        "Desestabilizacion economica",
+        "Acercamiento a Antauro Humala",
+        "Cuadros vinculados al Movadef",
+        "Movadef",
+        "Victor Polay",
+        "Vinculos terroristas"
+      ]
+    },
+    {
+      "id": "renovacion-popular",
+      "name": "Renovacion Popular",
+      "founded": 2020,
+      "founder": "Rafael Lopez Aliaga",
+      "currentLeader": "Rafael Lopez Aliaga",
+      "ideology": "Derecha conservadora",
+      "description": "Partido de derecha conservadora fundado por Rafael Lopez Aliaga. En 2026 se consolido como una de las principales opciones de orden y agenda moral conservadora.",
+      "significance": "Se convirtio en una de las fuerzas mas visibles de la derecha peruana contemporanea y en eje de la candidatura presidencial de 2026.",
+      "contexto": "Fragmentacion del sistema politico, desgaste de los partidos tradicionales y demanda de orden y seguridad en el debate publico.",
+      "hechos": [
+        "Llevo a Rafael Lopez Aliaga a competir por la presidencia en 2026",
+        "Consolido una base electoral conservadora en Lima y sectores urbanos",
+        "Se presento como una alternativa de orden frente a la izquierda y al centro debil"
+      ],
+      "positivos": [
+        "Ofrecio una identidad politica clara para votantes conservadores",
+        "Aporto capacidad de movilizacion y disciplina electoral",
+        "Puso en agenda seguridad, orden y gestion"
+      ],
+      "negativos": [
+        "Se apoyo demasiado en un liderazgo personal",
+        "Su discurso puede intensificar la polarizacion",
+        "Su identidad ideologica es mas reactiva que programatica"
+      ],
+      "resumenAnalitico": "Renovacion Popular es una derecha de choque con alto componente personalista. Su relevancia en 2026 proviene de la capacidad de canalizar malestar social, pero tambien de su tendencia a polarizar el sistema.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Derecha conservadora",
+        "Liderazgo personalista",
+        "Polarizacion politica",
+        "Agenda de orden y choque"
       ]
     },
     {
@@ -359,7 +490,9 @@
       "riskSignals": [
         "Polarizacion politica",
         "Bloqueo institucional",
-        "Arrastre del fujimorismo"
+        "Arrastre del fujimorismo",
+        "Investigacion por lavado de activos",
+        "Financiamiento irregular"
       ]
     },
     {
@@ -367,7 +500,7 @@
       "name": "Peru Libre",
       "founded": 2012,
       "founder": "Vladimir Cerron",
-      "ideology": "Izquierda, socialismo",
+      "ideology": "Izquierda, socialismo radical",
       "description": "Partido de izquierda fundado por Vladimir Cerron. Gano las elecciones presidenciales de 2021 con Pedro Castillo como candidato.",
       "significance": "Representa el resurgimiento de la izquierda politica en el Peru en el siglo XXI.",
       "contexto": "Desencanto con la clase politica tradicional, centralismo persistente y demanda de cambio radical en regiones andinas.",
@@ -390,9 +523,41 @@
       "riskLevel": "CRITICO",
       "riskSignals": [
         "Izquierda radical",
+        "Socialismo radical",
+        "Presunta afiliacion al terrorismo",
         "Discurso de ruptura",
         "Riesgo de polarizacion institucional"
-      ]
+      ],
+      "tags": {
+        "negative": [
+          "Vinculos terroristas",
+          "Presunta afiliacion al terrorismo"
+        ],
+        "risk": [
+          "Vinculos terroristas",
+          "Presunta afiliacion al terrorismo"
+        ],
+        "scoring": {
+          "negative": [
+            "vinculos terroristas",
+            "corrupcion",
+            "investigacion por corrupcion",
+            "investigacion por lavado de activos",
+            "socialismo radical",
+            "polarizacion",
+            "inestabilidad"
+          ],
+          "risk": [
+            "vinculos terroristas",
+            "corrupcion",
+            "investigacion por corrupcion",
+            "investigacion por lavado de activos",
+            "socialismo radical",
+            "polarizacion",
+            "inestabilidad"
+          ]
+        }
+      }
     }
   ],
   "politicalLeaders": [
@@ -586,7 +751,31 @@
         "Autogolpe",
         "Red de corrupcion",
         "Violaciones graves de derechos humanos"
-      ]
+      ],
+      "scoringExclusions": [
+        "hiperinflacion"
+      ],
+      "tags": {
+        "scoring": {
+          "positive": [
+            "frenar la hiperinflacion",
+            "debilito a sendero luminoso",
+            "ordenar la macroeconomia"
+          ],
+          "negative": [
+            "autogolpe",
+            "corrupcion",
+            "violaciones de derechos humanos",
+            "hiperinflacion heredada"
+          ],
+          "risk": [
+            "autogolpe",
+            "corrupcion",
+            "violaciones de derechos humanos",
+            "hiperinflacion heredada"
+          ]
+        }
+      }
     },
     {
       "id": "vladimir-cerron",
@@ -623,10 +812,47 @@
       "riskLevel": "CRITICO",
       "riskSignals": [
         "Condena e investigacion por corrupcion",
+        "Corrupcion",
+        "Investigacion por corrupcion",
+        "Investigacion por lavado de activos",
         "Prófugo de la justicia / evasión de captura",
+        "Presunta afiliacion al terrorismo",
+        "Socialismo radical",
         "Radicalizacion politica de Peru Libre",
         "Alegaciones publicas sobre apoyos o protecciones externas no corroboradas judicialmente"
-      ]
+      ],
+      "tags": {
+        "negative": [
+          "Vinculos terroristas",
+          "Presunta afiliacion al terrorismo"
+        ],
+        "risk": [
+          "Vinculos terroristas",
+          "Presunta afiliacion al terrorismo"
+        ],
+        "scoring": {
+          "negative": [
+            "vinculos terroristas",
+            "presunta afiliacion al terrorismo",
+            "corrupcion",
+            "investigacion por corrupcion",
+            "investigacion por lavado de activos",
+            "socialismo radical",
+            "polarizacion",
+            "inestabilidad"
+          ],
+          "risk": [
+            "vinculos terroristas",
+            "presunta afiliacion al terrorismo",
+            "corrupcion",
+            "investigacion por corrupcion",
+            "investigacion por lavado de activos",
+            "socialismo radical",
+            "polarizacion",
+            "inestabilidad"
+          ]
+        }
+      }
     },
     {
       "id": "pedro-castillo",
@@ -664,10 +890,47 @@
       "riskLevel": "CRITICO",
       "riskSignals": [
         "Intento de disolver el Congreso y quiebre constitucional",
+        "Corrupcion",
+        "Inestabilidad",
+        "Autogolpe",
+        "Rebelion",
         "Condena por conspiracion / rebelion en 2025",
         "Gobernabilidad caotica y entorno politico radicalizado",
-        "Alegaciones publicas sobre influencia externa en su entorno, no corroboradas como hecho judicial"
-      ]
+        "Alegaciones publicas sobre influencia externa en su entorno, no corroboradas como hecho judicial",
+        "Polarizacion"
+      ],
+      "tags": {
+        "negative": [
+          "autogolpe",
+          "corrupcion",
+          "inestabilidad",
+          "rebelion",
+          "Polarizacion"
+        ],
+        "risk": [
+          "autogolpe",
+          "corrupcion",
+          "inestabilidad",
+          "rebelion",
+          "Polarizacion"
+        ],
+        "scoring": {
+          "negative": [
+            "autogolpe",
+            "corrupcion",
+            "inestabilidad",
+            "rebelion",
+            "polarizacion"
+          ],
+          "risk": [
+            "autogolpe",
+            "corrupcion",
+            "inestabilidad",
+            "rebelion",
+            "polarizacion"
+          ]
+        }
+      }
     },
     {
       "id": "keiko-fujimori",
@@ -697,7 +960,7 @@
       ],
       "negativos": [
         "Su liderazgo profundizo la polarizacion nacional",
-        "Acumulo acusaciones de financiamiento irregular",
+        "Acumulo investigaciones por lavado de activos y financiamiento irregular",
         "Su proyecto estuvo mas orientado a bloqueo que a reforma",
         "Reforzo la logica de confrontacion heredada del fujimorismo"
       ],
@@ -706,7 +969,152 @@
       "riskSignals": [
         "Polarizacion sostenida",
         "Bloqueo institucional",
-        "Carga politica del fujimorismo"
+        "Carga politica del fujimorismo",
+        "Juicio oral por lavado de activos",
+        "Financiamiento irregular"
+      ]
+    },
+    {
+      "id": "rafael-lopez-aliaga",
+      "name": "Rafael Lopez Aliaga",
+      "party": "Renovacion Popular",
+      "birthYear": 1961,
+      "deathYear": null,
+      "birthPlace": "Lima",
+      "role": "Fundador y lider de Renovacion Popular; candidato presidencial 2026",
+      "biography": "Rafael Lopez Aliaga es empresario, ingeniero y politico peruano. Lidero Renovacion Popular y se convirtio en una de las figuras mas visibles de la derecha conservadora peruana.",
+      "achievements": [
+        "Fundacion y liderazgo de Renovacion Popular",
+        "Alcaldia de Lima entre 2023 y 2025",
+        "Candidatura presidencial 2026",
+        "Movilizacion de voto conservador"
+      ],
+      "contexto": "Fragmentacion politica, demanda de orden y seguridad, y crecimiento del voto conservador urbano.",
+      "hechos": [
+        "Transformo su liderazgo municipal en plataforma nacional",
+        "Consolido una derecha conservadora con fuerte presencia mediatica",
+        "Se proyecto como figura de orden en 2026"
+      ],
+      "positivos": [
+        "Capacidad de movilizacion electoral",
+        "Mensajeria simple sobre seguridad y orden",
+        "Seguridad ciudadana",
+        "Experiencia ejecutiva en Lima"
+      ],
+      "negativos": [
+        "Estilo confrontacional",
+        "Alta personalizacion del proyecto",
+        "Polariza el debate politico"
+      ],
+      "resumenAnalitico": "Lopez Aliaga encarna una derecha conservadora con gran energia electoral pero tambien con fuerte tendencia a la confrontacion. Su influencia depende menos de una estructura doctrinaria que de su capacidad de convertir malestar en apoyo.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Derecha conservadora",
+        "Liderazgo personalista",
+        "Polarizacion politica",
+        "Orden y mano dura"
+      ]
+    },
+    {
+      "id": "roberto-sanchez-palomino",
+      "name": "Roberto Sanchez Palomino",
+      "party": "Juntos por el Peru",
+      "birthYear": 1969,
+      "deathYear": null,
+      "birthPlace": "Huaral",
+      "role": "Presidente de Juntos por el Peru y candidato presidencial 2026",
+      "biography": "Roberto Sanchez Palomino es un politico y psicologo peruano que dirigio Juntos por el Peru en la campana de 2026. Su perfil combina representacion del interior, experiencia congresal y una apuesta por la inclusion regional.",
+      "achievements": [
+        "Presidencia partidaria de Juntos por el Peru",
+        "Candidatura presidencial 2026",
+        "Trayectoria congresal",
+        "Presencia en la agenda regional y de inclusion"
+      ],
+      "contexto": "Desgaste de la politica tradicional, voto disperso y reaparicion de coaliciones de izquierda y centroizquierda en 2026.",
+      "hechos": [
+        "Condujo la candidatura de Juntos por el Peru en 2026",
+        "Consolido una identidad de campana ligada al interior",
+        "Articulo discursos de reforma y representacion territorial"
+      ],
+      "positivos": [
+        "Da visibilidad a regiones y sectores excluidos",
+        "Sostiene una linea politica de reforma social"
+      ],
+      "negativos": [
+        "Su proyecto depende mucho del ciclo electoral",
+        "Le cuesta consolidar una maquinaria nacional estable",
+        "Puede quedar atrapado entre la protesta y la gobernabilidad",
+        "Desestabilizacion politica",
+        "Desestabilizacion economica",
+        "Su alianza o cercania con Antauro Humala eleva el riesgo politico"
+      ],
+      "resumenAnalitico": "Roberto Sanchez representa una izquierda o centroizquierda electoral que intenta capitalizar el malestar regional sin romper del todo con la institucionalidad. Sin embargo, su agenda constituyente, su postura frente al BCRP, la desestabilizacion politica y economica que propone, y la cercania de su entorno a Antauro Humala elevan su nivel de riesgo politico.",
+      "tags": {
+        "positive": [
+          "Representacion regional",
+          "Reforma social",
+          "Agenda de inclusion"
+        ],
+        "negative": [
+          "Desestabilizacion politica",
+          "Desestabilizacion economica",
+          "Acercamiento a Antauro Humala",
+          "Vinculos terroristas",
+          "Polarizacion"
+        ],
+        "risk": [
+          "Desestabilizacion politica",
+          "Desestabilizacion economica",
+          "Acercamiento a Antauro Humala",
+          "Vinculos terroristas",
+          "Polarizacion"
+        ],
+        "context": [
+          "Desgaste de la politica tradicional",
+          "Voto disperso",
+          "Izquierda y centroizquierda en 2026"
+        ],
+        "scoring": {
+          "positive": [
+            "representacion_regional",
+            "reforma_social",
+            "agenda_de_inclusion"
+          ],
+          "negative": [
+            "desestabilizacion_politica",
+            "desestabilizacion_economica",
+            "acercamiento_a_antauro_humala",
+            "vinculos_terroristas",
+            "polarizacion"
+          ],
+          "risk": [
+            "desestabilizacion_politica",
+            "desestabilizacion_economica",
+            "acercamiento_a_antauro_humala",
+            "vinculos_terroristas",
+            "polarizacion"
+          ],
+          "context": [
+            "desgaste_de_la_politica_tradicional",
+            "voto_disperso",
+            "izquierda_y_centroizquierda_en_2026"
+          ]
+        }
+      },
+      "riskLevel": "ALTO",
+      "riskSignals": [
+        "Candidatura 2026",
+        "Presidencia partidaria",
+        "Reformismo de izquierda",
+        "Base regional",
+        "Desestabilizacion politica",
+        "Desestabilizacion economica",
+        "Acercamiento a Antauro Humala",
+        "Cuadros vinculados al Movadef",
+        "Movadef",
+        "Victor Polay",
+        "Vinculos terroristas",
+        "Polarizacion"
       ]
     }
   ],
@@ -962,9 +1370,45 @@
       "riskLevel": "CRITICO",
       "riskSignals": [
         "Intento de autogolpe",
+        "Polarizacion",
+        "Corrupcion",
+        "Inestabilidad",
+        "Rebelion",
         "Condena por conspiracion / rebelion",
         "Crisis politica y social de alto impacto"
-      ]
+      ],
+      "tags": {
+        "negative": [
+          "autogolpe",
+          "corrupcion",
+          "inestabilidad",
+          "rebelion",
+          "polarizacion"
+        ],
+        "risk": [
+          "autogolpe",
+          "corrupcion",
+          "inestabilidad",
+          "rebelion",
+          "polarizacion"
+        ],
+        "scoring": {
+          "negative": [
+            "autogolpe",
+            "corrupcion",
+            "inestabilidad",
+            "rebelion",
+            "polarizacion"
+          ],
+          "risk": [
+            "autogolpe",
+            "corrupcion",
+            "inestabilidad",
+            "rebelion",
+            "polarizacion"
+          ]
+        }
+      }
     },
     {
       "name": "Dina Boluarte",
@@ -977,6 +1421,12 @@
       "start": 2024,
       "end": 2026,
       "period": "2024-2026"
+    },
+    {
+      "name": "José María Balcázar",
+      "start": 2026,
+      "end": 2026,
+      "period": "2026"
     }
   ],
   "regionalAnalysis": [
@@ -1392,6 +1842,10 @@
         "La Sierra fue la mas golpeada por la violencia estatal y el abandono",
         "La Selva quedo expuesta a extraccion sin proteccion ambiental"
       ],
+      "scoringExclusions": [
+        "hiperinflacion",
+        "terrorismo"
+      ],
       "impactoRegional": {
         "costa": "La inversion y la estabilidad macroeconomica beneficiaron a Lima, pero el poder quedo centralizado y corrompido.",
         "sierra": "Sufrio con mas fuerza la represion, las esterilizaciones forzadas y el abandono social.",
@@ -1547,6 +2001,35 @@
         "La Costa no vio una solucion real a la crisis politica",
         "La Sierra y la Selva siguieron esperando una presencia estatal mas fuerte"
       ],
+      "tags": {
+        "positive": [
+          "Estabilidad macroeconomica",
+          "Educacion",
+          "Inclusion",
+          "Modernizacion",
+          "Infraestructura",
+          "Reformas politicas",
+          "Crecimiento economico"
+        ],
+        "negative": [
+          "Gobernabilidad fragil",
+          "Corrupcion",
+          "Inestabilidad",
+          "Bloqueo permanente con el Congreso",
+          "Imposibilidad de impulsar reformas de fondo"
+        ],
+        "risk": [
+          "Tecnocracia liberal",
+          "Gobernabilidad fragil",
+          "Vinculos con corrupcion",
+          "Crisis politica"
+        ],
+        "context": [
+          "Anticontinuismo fujimorista",
+          "Gestion tecnica",
+          "Estabilidad"
+        ]
+      },
       "impactoRegional": {
         "costa": "La estabilidad economica no alcanzo para frenar la crisis politica y el desgaste institucional.",
         "sierra": "La distancia con el centro politico siguio igual y las reformas regionales quedaron cortas.",
@@ -1555,7 +2038,8 @@
       "riskLevel": "MEDIO",
       "riskSignals": [
         "Gobernabilidad fragil",
-        "Vinculos con corrupcion"
+        "Vinculos con corrupcion",
+        "Inestabilidad"
       ]
     },
     {
@@ -1585,6 +2069,7 @@
       },
       "riskLevel": "ALTO",
       "riskSignals": [
+        "Condena por corrupcion",
         "Condenado a 14 anos de prision por sobornos en 2025",
         "Caso de corrupcion vinculado a su gestion como gobernador de Moquegua",
         "Legado politico severamente erosionado por condena judicial"
@@ -1621,6 +2106,33 @@
       ]
     },
     {
+      "name": "Francisco Sagasti",
+      "period": "2020-2021",
+      "party": "Partido Morado",
+      "ideology": "Transicion democratica",
+      "causes": "Asumio tras la crisis de 2020 y la sucesion que busco recomponer la legitimidad institucional y cerrar la etapa de mayor desorden politico.",
+      "positivos": [
+        "Restauro una salida institucional tras la crisis politica",
+        "Acompano la transicion electoral con tono tecnico y moderado",
+        "Redujo la confrontacion directa con el Congreso"
+      ],
+      "negativos": [
+        "Gobierno breve con margen muy limitado de reforma",
+        "Recibio una crisis sanitaria y politica ya deteriorada",
+        "No logro transformar la fragilidad estructural del sistema"
+      ],
+      "impactoRegional": {
+        "costa": "Lima vivio una transicion mas ordenada, aunque sin resolver la crisis politica de fondo.",
+        "sierra": "Las brechas de salud, empleo y representacion siguieron intactas.",
+        "selva": "La presencia estatal continuo siendo debil y desigual."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Transicion institucional",
+        "Gobierno breve"
+      ]
+    },
+    {
       "name": "Pedro Castillo",
       "period": "2021-2022",
       "party": "Peru Libre",
@@ -1648,9 +2160,40 @@
       "riskLevel": "CRITICO",
       "riskSignals": [
         "Intento de autogolpe y disolucion del Congreso",
+        "Corrupcion",
+        "Polarizacion",
+        "Inestabilidad",
         "Condenado por rebelion / conspiracion y en custodia",
         "Acusaciones politicas sobre influencias externas no corroboradas por una sentencia"
-      ]
+      ],
+      "tags": {
+        "negative": [
+          "corrupcion",
+          "polarizacion",
+          "inestabilidad",
+          "autogolpe"
+        ],
+        "risk": [
+          "corrupcion",
+          "polarizacion",
+          "inestabilidad",
+          "autogolpe"
+        ],
+        "scoring": {
+          "negative": [
+            "corrupcion",
+            "polarizacion",
+            "inestabilidad",
+            "autogolpe"
+          ],
+          "risk": [
+            "corrupcion",
+            "polarizacion",
+            "inestabilidad",
+            "autogolpe"
+          ]
+        }
+      }
     },
     {
       "name": "Dina Boluarte",
@@ -1682,6 +2225,59 @@
         "Represion de protestas",
         "Crisis de legitimidad",
         "Sospechas de corrupcion"
+      ]
+    },
+    {
+      "name": "José Enrique Jerí Oré",
+      "period": "2025-2026",
+      "party": "Mesa Directiva del Congreso",
+      "ideology": "Sucesion congresal",
+      "causes": "Asumio por sucesion constitucional tras la vacancia de Dina Boluarte, en un contexto de fragilidad institucional y demanda de orden politico.",
+      "positivos": [
+        "Aseguro continuidad constitucional",
+        "Prometio un gobierno de empatía y reconciliación nacional",
+        "Planteo una respuesta mas directa frente a la inseguridad"
+      ],
+      "negativos": [
+        "Legitimidad politica limitada por la crisis heredada",
+        "Gobierno de transicion con alto nivel de desconfianza",
+        "Margen acotado para reformas de fondo"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis siguio concentrada en Lima y el eje politico central.",
+        "sierra": "Persistieron las demandas de representacion y seguridad.",
+        "selva": "El Estado continuo con presencia desigual y debil."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Sucesion constitucional",
+        "Gobierno transitorio",
+        "Inestabilidad"
+      ]
+    },
+    {
+      "name": "José María Balcázar",
+      "period": "2026",
+      "party": "Peru Libre",
+      "ideology": "Sucesion congresal",
+      "causes": "Fue elegido presidente del Congreso y asumio por encargo la Presidencia de la Republica en una nueva etapa de sucesion institucional.",
+      "positivos": [
+        "Planteo continuidad institucional en medio de la crisis"
+      ],
+      "negativos": [
+        "Legitimidad discutida por el contexto politico de origen",
+        "Gestion muy corta y condicionada por la inestabilidad",
+        "Alta dependencia de acuerdos congresales"
+      ],
+      "impactoRegional": {
+        "costa": "Lima siguio siendo el escenario principal de la crisis politica.",
+        "sierra": "Las regiones mantuvieron expectativas de seguridad y representacion.",
+        "selva": "Persistieron los problemas de presencia estatal y control territorial."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Sucesion institucional",
+        "Gobierno de encargo"
       ]
     }
   ]

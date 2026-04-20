@@ -13,6 +13,7 @@ interface PoliticalParty {
   name: string;
   founded: number;
   founder: string;
+  currentLeader?: string;
   ideology: string;
   description: string;
   significance: string;
@@ -21,6 +22,18 @@ interface PoliticalParty {
   positivos: string[];
   negativos: string[];
   resumenAnalitico: string;
+  tags?: {
+    positive?: string[];
+    negative?: string[];
+    risk?: string[];
+    context?: string[];
+    scoring?: {
+      positive?: string[];
+      negative?: string[];
+      risk?: string[];
+      context?: string[];
+    };
+  };
   riskLevel?: 'BAJO' | 'MEDIO' | 'ALTO' | 'CRITICO';
   riskSignals?: string[];
 }
@@ -40,6 +53,18 @@ interface PoliticalLeader {
   positivos: string[];
   negativos: string[];
   resumenAnalitico: string;
+  tags?: {
+    positive?: string[];
+    negative?: string[];
+    risk?: string[];
+    context?: string[];
+    scoring?: {
+      positive?: string[];
+      negative?: string[];
+      risk?: string[];
+      context?: string[];
+    };
+  };
   riskLevel?: 'BAJO' | 'MEDIO' | 'ALTO' | 'CRITICO';
   riskSignals?: string[];
 }
@@ -60,6 +85,18 @@ interface President {
   start: number;
   end: number;
   period: string;
+  tags?: {
+    positive?: string[];
+    negative?: string[];
+    risk?: string[];
+    context?: string[];
+    scoring?: {
+      positive?: string[];
+      negative?: string[];
+      risk?: string[];
+      context?: string[];
+    };
+  };
   riskLevel?: 'BAJO' | 'MEDIO' | 'ALTO' | 'CRITICO';
   riskSignals?: string[];
 }
@@ -90,6 +127,12 @@ interface PresidentialAnalysis {
     costa: string;
     sierra: string;
     selva: string;
+  };
+  tags?: {
+    positive?: string[];
+    negative?: string[];
+    risk?: string[];
+    context?: string[];
   };
   riskLevel?: 'BAJO' | 'MEDIO' | 'ALTO' | 'CRITICO';
   riskSignals?: string[];

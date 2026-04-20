@@ -15,9 +15,6 @@ export default function HeroSection({ onExplore }: HeroSectionProps) {
           {/* Subtitle */}
           <div className="typewriter-subtitle text-sm md:text-base space-y-2">
             <p>
-              {'>> Un archivo de la nacion andina'}
-            </p>
-            <p>
               {'>> Desde los imperios antiguos hasta la politica moderna'}
             </p>
             <p>
