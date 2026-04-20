@@ -1,0 +1,532 @@
+{
+  "presidentialAnalysis": [
+    {
+      "name": "Jose de la Riva-Agüero",
+      "period": "1823",
+      "party": "Primer republicanismo",
+      "ideology": "Caudillismo inicial",
+      "causes": "La republica nacio entre guerras, facciones y ausencia de instituciones solidas. El poder quedo atrapado entre elites militares y regionales que competian por el control del nuevo Estado.",
+      "positivos": [
+        "Fue el primer presidente de la republica peruana",
+        "Ayudo a formalizar la jefatura del nuevo Estado",
+        "Marco el paso simbolico de la independencia a la republica"
+      ],
+      "negativos": [
+        "Gobierno extremadamente debil y sin control territorial real",
+        "Caos politico entre facciones militares y civiles",
+        "Dependencia de caudillos y ausencia de institucionalidad",
+        "La Costa concentro el poder, mientras la Sierra quedo fuera de la decision politica",
+        "La inestabilidad impidio construir economia, justicia o administracion duradera"
+      ],
+      "impactoRegional": {
+        "costa": "Lima siguio siendo el centro de la disputa politica y administrativa.",
+        "sierra": "La region quedo subordinada a una republica fragil y centralista.",
+        "selva": "Practicamente no hubo presencia estatal efectiva ni integracion."
+      }
+    },
+    {
+      "name": "Ramon Castilla",
+      "period": "1845-1862",
+      "party": "Caudillismo militar",
+      "ideology": "Conservadurismo pragmatico",
+      "causes": "Asumio en una republica todavia inestable, sostenida por rentas del guano y por la logica del caudillo militar como garante del orden.",
+      "positivos": [
+        "Abolicion de la esclavitud",
+        "Supresion del tributo indigena",
+        "Impulso de obras publicas y modernizacion estatal",
+        "Fortalecimiento momentaneo de ingresos fiscales por el guano"
+      ],
+      "negativos": [
+        "El modelo dependio de una riqueza extractiva agotable y mal distribuida",
+        "El Estado siguio siendo centralista y excluyente",
+        "El progreso quedo atado a caudillos y no a instituciones solidas",
+        "La Costa se beneficio mas que las regiones andinas y amazónicas",
+        "La desigualdad estructural no desaparecio, solo fue administrada"
+      ],
+      "impactoRegional": {
+        "costa": "Lima y los puertos recibieron la mayor parte del impulso economico y politico.",
+        "sierra": "La inclusion fue parcial y la brecha social siguio intacta.",
+        "selva": "Quedo al margen del proyecto estatal y del reparto de recursos."
+      }
+    },
+    {
+      "name": "Augusto B. Leguia",
+      "period": "1908-1930",
+      "party": "Patria Nueva",
+      "ideology": "Modernizacion autoritaria",
+      "causes": "Llego con la promesa de modernizar el pais, pero convirtio la reforma en un proyecto personalista apoyado en la reeleccion y el control politico.",
+      "positivos": [
+        "Impulso obras publicas, carreteras y urbanizacion",
+        "Promovio una imagen de modernizacion y expansion estatal",
+        "Aumento del peso de Lima como centro administrativo"
+      ],
+      "negativos": [
+        "Concentro poder y debilito los contrapesos democraticos",
+        "Persecucion politica a opositores y sindicatos",
+        "Endeudamiento con capital extranjero",
+        "Centralismo que profundizo la brecha regional",
+        "El proyecto de modernizacion beneficio primero a elites urbanas",
+        "La caida del regimen dejo fragilidad economica y politica"
+      ],
+      "impactoRegional": {
+        "costa": "La capital concentro infraestructura y poder, reforzando su dominio sobre el pais.",
+        "sierra": "La integracion fue parcial y subordinada a intereses centralistas.",
+        "selva": "Siguio siendo periferica, con muy baja inversion publica."
+      }
+    },
+    {
+      "name": "Luis M. Sanchez Cerro",
+      "period": "1930-1933",
+      "party": "Union Revolucionaria",
+      "ideology": "Militarismo autoritario",
+      "causes": "Su ascenso respondio al colapso del leguiismo y al miedo de las elites frente a la agitacion social y el crecimiento de la izquierda.",
+      "positivos": [
+        "Intento restablecer un orden tras la caida de Leguia",
+        "Busco recomponer la autoridad estatal en medio de crisis"
+      ],
+      "negativos": [
+        "Gobierno marcado por violencia politica y represion",
+        "Hostilidad abierta contra opositores y apristas",
+        "Inestabilidad institucional extrema",
+        "Militarizacion de la vida publica",
+        "El pais quedo atrapado entre caudillos, conspiraciones y miedo social"
+      ],
+      "impactoRegional": {
+        "costa": "La disputa por el poder se concentro en Lima y erosiono la gobernabilidad.",
+        "sierra": "No hubo una agenda real de integracion social o economica.",
+        "selva": "Siguio excluida del debate nacional."
+      }
+    },
+    {
+      "name": "Oscar R. Benavides",
+      "period": "1933-1939",
+      "party": "Gobierno militar",
+      "ideology": "Autoritarismo de orden",
+      "causes": "Tomó el poder como respuesta al asesinato de Sanchez Cerro y a una republica agotada por la violencia partidaria.",
+      "positivos": [
+        "Aporto una relativa estabilizacion tras un periodo caotico",
+        "Busco ordenar la administracion publica",
+        "Redujo algunos niveles de conflicto abierto"
+      ],
+      "negativos": [
+        "Gobierno autoritario con censura y persecucion politica",
+        "Limitacion de libertades civiles",
+        "Pacto de orden basado en silencio y control, no en democracia",
+        "El centralismo siguio intacto y las regiones siguieron subordinadas"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad fue mas aparente que transformadora, concentrada en Lima.",
+        "sierra": "Persistieron la marginalidad y la falta de reforma social.",
+        "selva": "Casi sin presencia estatal efectiva."
+      }
+    },
+    {
+      "name": "Jose Luis Bustamante y Rivero",
+      "period": "1945-1948",
+      "party": "Frente Democratico Nacional",
+      "ideology": "Democracia reformista",
+      "causes": "Fue elegido en una apertura democratica, pero el pais ya estaba polarizado entre aprismo, militares y elites temerosas de perder poder.",
+      "positivos": [
+        "Apertura democratica y respeto institucional inicial",
+        "Intento de ampliar la participacion politica",
+        "Discurso juridico y civilista"
+      ],
+      "negativos": [
+        "Gobierno asediado por la polarizacion y el sabotaje politico",
+        "Incapacidad para contener la crisis entre militares y APRA",
+        "Debilidad para gobernar en un clima de confrontacion permanente",
+        "El proyecto democratico quedo sin respaldo suficiente del poder real"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis politica se reflejo con fuerza en Lima.",
+        "sierra": "Las reformas no llegaron a consolidarse en el interior.",
+        "selva": "Siguio fuera del centro de la agenda estatal."
+      }
+    },
+    {
+      "name": "Manuel A. Odria",
+      "period": "1948-1956",
+      "party": "Gobierno militar",
+      "ideology": "Populismo autoritario",
+      "causes": "Llego por golpe de Estado en un contexto de crisis y miedo al aprismo; prometio orden, pero gobernó con represión y patronazgo.",
+      "positivos": [
+        "Impulso obras publicas y crecimiento urbano",
+        "Generacion de empleo y gasto estatal en infraestructura",
+        "Sensacion de orden para algunos sectores urbanos"
+      ],
+      "negativos": [
+        "Dictadura con persecucion politica y censura",
+        "Uso del Estado para castigar opositores",
+        "Clientelismo y corrupcion en el aparato publico",
+        "Modelo de orden que oculto desigualdades estructurales",
+        "Las regiones quedaron subordinadas a la logica de la capital"
+      ],
+      "impactoRegional": {
+        "costa": "Lima recibio la mayor parte de obras y concentracion de recursos.",
+        "sierra": "La inclusion fue limitada y muy desigual.",
+        "selva": "Siguio periferica frente a un Estado centralista."
+      }
+    },
+    {
+      "name": "Francisco Morales Bermudez",
+      "period": "1975-1980",
+      "party": "Junta Militar",
+      "ideology": "Militarismo de transicion",
+      "causes": "Asumio tras el agotamiento del velasquismo, con la economia debilitada y la necesidad de salir del experimento militar sin perder control.",
+      "positivos": [
+        "Inicio la transicion de vuelta a elecciones",
+        "Desactivo parte de la agenda estatista mas radical",
+        "Preparó la salida formal del regimen militar"
+      ],
+      "negativos": [
+        "Ajuste economico duro con costo social alto",
+        "Represion y persecucion a opositores",
+        "Transicion lenta y tutelada por militares",
+        "Herencia de crisis fiscal y desorden institucional",
+        "La poblacion pago el costo de decisiones tomadas sin control democratico"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis economica golpeo empleo y salarios urbanos.",
+        "sierra": "La austeridad profundizo la precariedad rural.",
+        "selva": "Siguio relegada y con poca atencion estatal."
+      }
+    },
+    {
+      "name": "Valentin Paniagua",
+      "period": "2000-2001",
+      "party": "Accion Popular",
+      "ideology": "Transicion democratica",
+      "causes": "Asumio tras el colapso del fujimorismo y la necesidad urgente de restaurar legitimidad institucional.",
+      "positivos": [
+        "Restablecio la legalidad despues de la crisis fujimorista",
+        "Impulso una transicion limpia y breve",
+        "Reabrio el camino para elecciones competitivas"
+      ],
+      "negativos": [
+        "Gobierno transitorio con margen minimo de reforma",
+        "Instituciones aun debilitadas por corrupcion y captura previa",
+        "La crisis estructural del Estado siguio intacta"
+      ],
+      "impactoRegional": {
+        "costa": "La transicion apaciguo la crisis politica en Lima.",
+        "sierra": "Las regiones siguieron esperando reparacion y reforma real.",
+        "selva": "El cambio de gobierno no altero la exclusion historica."
+      }
+    },
+    {
+      "name": "Juan Velasco Alvarado",
+      "period": "1968-1975",
+      "party": "Junta Militar",
+      "ideology": "Nacionalismo militar de izquierda",
+      "causes": "Golpe de Estado contra Fernando Belaunde Terry. Respuesta a la desigualdad rural, la concentracion de tierras, el descontento militar y la presion social en la Sierra.",
+      "positivos": [
+        "Reforma agraria que rompio latifundios y dio tierras a campesinos",
+        "Reconocimiento del quechua y ampliacion del discurso sobre identidad andina",
+        "Nacionalizacion de sectores estrategicos",
+        "Expansion de educacion y salud en zonas excluidas",
+        "Mejoras temporales en salarios y derechos laborales"
+      ],
+      "negativos": [
+        "Autoritarismo y censura contra prensa y oposicion",
+        "Estado sobredimensionado e ineficiente que deterioro la economia",
+        "Endeudamiento e inflacion que golpearon el poder adquisitivo",
+        "Corrupcion y mala gestion en empresas estatales",
+        "Tension y violencia en el campo por una reforma impuesta desde arriba",
+        "La Costa perdio inversion privada y empleo en sectores productivos",
+        "La Selva siguio marginada y tratada como territorio de extraccion"
+      ],
+      "impactoRegional": {
+        "costa": "La centralizacion del Estado y las nacionalizaciones frenaron la inversion privada y golpearon a sectores exportadores y urbanos.",
+        "sierra": "Recibio el impacto mas fuerte de la reforma agraria, pero tambien sufrio desorden economico, presion estatal y violencia politica.",
+        "selva": "Continuo fuera del centro de decisiones; hubo extraccion de recursos sin beneficios reales para las comunidades locales."
+      }
+    },
+    {
+      "name": "Fernando Belaunde Terry",
+      "period": "1963-1968",
+      "party": "Accion Popular",
+      "ideology": "Reformismo democratico",
+      "causes": "Llego al poder con promesas de modernizacion, infraestructura y integracion territorial en un pais centralista y con fuerte brecha entre Lima y las regiones.",
+      "positivos": [
+        "Impulso carreteras, vivienda y obras de infraestructura",
+        "Defendio la institucionalidad democratica frente al militarismo",
+        "Promovio integracion vial y presencia del Estado en regiones",
+        "Mantuvo un discurso modernizador y tecnico"
+      ],
+      "negativos": [
+        "La reforma agraria fue lenta e insuficiente para frenar el conflicto rural",
+        "La respuesta estatal a protestas campesinas y tensiones sociales fue debil o tardia",
+        "Persistio la desigualdad estructural entre Lima y el interior",
+        "La Sierra siguio acumulando frustracion por el retraso en tierra, servicios y representacion",
+        "El Estado no logro contener la conflictividad social y politica que crecia fuera de la Costa"
+      ],
+      "impactoRegional": {
+        "costa": "Se concentro la inversion y la gestion politica, pero sin resolver la desigualdad de fondo.",
+        "sierra": "La falta de respuesta a demandas agrarias y sociales agravo el resentimiento regional.",
+        "selva": "Recibio obras puntuales, pero siguio con baja presencia estatal y escasa integracion real."
+      }
+    },
+    {
+      "name": "Alan Garcia Perez (primer gobierno)",
+      "period": "1985-1990",
+      "party": "APRA",
+      "ideology": "Populismo economico",
+      "causes": "Llego con el discurso de romper con el ajuste y redistribuir riqueza tras anos de crisis, deuda y desigualdad.",
+      "positivos": [
+        "Aumento inicial de salarios y gasto social",
+        "Discurso de soberania economica frente al FMI",
+        "Apoyo inicial en sectores populares y rurales",
+        "Expansiones puntuales en servicios publicos"
+      ],
+      "negativos": [
+        "Hiperinflacion devastadora que destruyo ahorros y salarios",
+        "Colapso fiscal, desabastecimiento y perdida de confianza internacional",
+        "Corrupcion y clientelismo en varias capas del Estado",
+        "Aumento de la violencia politica y debilitamiento de la capacidad estatal",
+        "La Costa urbana sufrio desempleo, escasez y caos economico",
+        "La Sierra vivio abandono, pobreza y mayor exposicion a Sendero Luminoso",
+        "La Selva quedo relegada y sin respuestas sostenibles"
+      ],
+      "impactoRegional": {
+        "costa": "Lima y otras ciudades concentraron la crisis economica, el desabastecimiento y el deterioro de los servicios.",
+        "sierra": "La pobreza, la violencia y la ausencia estatal se profundizaron en comunidades rurales.",
+        "selva": "Predominaron el olvido institucional y la explotacion de recursos sin desarrollo local."
+      }
+    },
+    {
+      "name": "Alberto Fujimori",
+      "period": "1990-2000",
+      "party": "Cambio 90",
+      "ideology": "Autoritarismo neoliberal",
+      "causes": "Fue elegido para contener la hiperinflacion, la violencia terrorista y el colapso del Estado; luego concentro poder con el autogolpe de 1992.",
+      "positivos": [
+        "Control de la inflacion con medidas de choque",
+        "Captura de Abimael Guzman y golpe al terrorismo",
+        "Modernizacion de infraestructura urbana y de comunicaciones",
+        "Recuperacion macroeconomica en parte de la decada"
+      ],
+      "negativos": [
+        "Autogolpe de 1992 y ruptura del orden democratico",
+        "Red de corrupcion y captura institucional alrededor de Montesinos",
+        "Masacres y graves violaciones de derechos humanos",
+        "Esterilizaciones forzadas a mujeres andinas e indigenas",
+        "Concentracion del poder, miedo politico y debilitamiento de la prensa",
+        "La Sierra fue la mas golpeada por la violencia estatal y el abandono",
+        "La Selva quedo expuesta a extraccion sin proteccion ambiental"
+      ],
+      "impactoRegional": {
+        "costa": "La inversion y la estabilidad macroeconomica beneficiaron a Lima, pero el poder quedo centralizado y corrompido.",
+        "sierra": "Sufrio con mas fuerza la represion, las esterilizaciones forzadas y el abandono social.",
+        "selva": "La extraccion de recursos siguio sin controles robustos ni beneficios equivalentes."
+      }
+    },
+    {
+      "name": "Alejandro Toledo",
+      "period": "2001-2006",
+      "party": "Peru Posible",
+      "ideology": "Centro liberal",
+      "causes": "Asumio tras la caida del fujimorismo con una demanda social de democracia, anticorrupcion y recuperacion economica.",
+      "positivos": [
+        "Restitucion de la democracia y de la confianza institucional",
+        "Estabilidad macroeconomica y continuidad del crecimiento",
+        "Ampliacion de programas sociales y obras regionales",
+        "Mayor apertura a agendas de descentralizacion"
+      ],
+      "negativos": [
+        "Promesas de cambio regional que avanzaron mas lento que el centralismo historico",
+        "Casos de corrupcion y redes de influencia que erosionaron su legado",
+        "Conflictos sociales por mineria y energia sin solucion durable",
+        "Desigualdad persistente pese al crecimiento economico",
+        "La Costa siguio concentrando el poder y los beneficios",
+        "La Sierra sintio que la descentralizacion era mas simbolica que real",
+        "La Selva continuo con presencia estatal debil y conflictos extractivos"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad macroeconomica favorecio inversiones, pero no desarmo la concentracion del poder en Lima.",
+        "sierra": "Recibio obras y programas, aunque la desigualdad y los conflictos por recursos continuaron.",
+        "selva": "Persistio la brecha de servicios y la tension entre desarrollo y extraccion."
+      }
+    },
+    {
+      "name": "Alan Garcia Perez (segundo gobierno)",
+      "period": "2006-2011",
+      "party": "APRA",
+      "ideology": "Pragmatismo pro mercado",
+      "causes": "Regreso al poder con un discurso moderado y la promesa de crecimiento, inversion y orden institucional.",
+      "positivos": [
+        "Crecimiento economico elevado en el contexto de bonanza externa",
+        "Impulso de infraestructura y promocion de inversiones",
+        "Programas sociales y expansion del gasto publico",
+        "Mayor integracion comercial internacional"
+      ],
+      "negativos": [
+        "Modelo extractivista que concentro ganancias y costos sociales",
+        "Conflictos graves con comunidades indigenas y rurales, incluyendo Bagua",
+        "Corrupcion y sospechas sobre redes de influencia",
+        "Debilidad para controlar impactos ambientales y territoriales",
+        "La Costa y Lima acumularon mas beneficios que las regiones",
+        "La Sierra y la Selva absorbieron los conflictos mas destructivos",
+        "La confianza en el Estado se deterioro en zonas rurales"
+      ],
+      "impactoRegional": {
+        "costa": "El crecimiento se concentro en Lima y ciudades costeras con menos redistribucion real.",
+        "sierra": "El conflicto social por proyectos extractivos se intensifico y dejo heridas politicas.",
+        "selva": "Bagua simbolizo la fractura entre desarrollo prometido y derechos territoriales."
+      }
+    },
+    {
+      "name": "Ollanta Humala",
+      "period": "2011-2016",
+      "party": "Gana Peru",
+      "ideology": "Nacionalismo de izquierda moderada",
+      "causes": "Gano con respaldo de regiones andinas y sectores que exigian redistribucion, inclusion social y freno al abuso extractivo.",
+      "positivos": [
+        "Expansion de bonos y programas sociales",
+        "Reduccion de pobreza en varios indicadores",
+        "Mayor discurso de inclusion rural e indigena",
+        "Crecimiento economico aun en contexto regional dificil"
+      ],
+      "negativos": [
+        "Giro moderado que fue visto como traicion por parte de su base",
+        "Conflictos mineros persistentes y respuestas estatales duras",
+        "Corrupcion y financiamiento irregular que ensuciaron su administracion",
+        "Persistencia del modelo extractivo sin reforma profunda",
+        "La Sierra siguio cargando con la conflictividad social",
+        "La Selva no recibio una proteccion ambiental suficiente",
+        "La Costa consolido la sensacion de que todo se decidia desde Lima"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad economica tranquilizo a los mercados, pero no redujo el centralismo.",
+        "sierra": "Las bases rurales se sintieron usadas y luego relegadas; crecieron los conflictos mineros.",
+        "selva": "La presion sobre territorios y bosques continuo con debil control estatal."
+      }
+    },
+    {
+      "name": "Pedro Pablo Kuczynski",
+      "period": "2016-2018",
+      "party": "Peruanos por el Kambio",
+      "ideology": "Tecnocracia liberal",
+      "causes": "Llego como opcion de mercado y anticontinuismo fujimorista, con promesa de gestion tecnica y estabilidad.",
+      "positivos": [
+        "Mantencion de estabilidad macroeconomica",
+        "Reputacion tecnica ante inversionistas",
+        "Continuidad de obras y programas ya en marcha"
+      ],
+      "negativos": [
+        "Escasa base politica y gobernabilidad fragil",
+        "Vinculos con casos de corrupcion que terminaron por hundir su presidencia",
+        "Bloqueo permanente con el Congreso",
+        "Imposibilidad de impulsar reformas de fondo",
+        "La Costa no vio una solucion real a la crisis politica",
+        "La Sierra y la Selva siguieron esperando una presencia estatal mas fuerte"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad economica no alcanzo para frenar la crisis politica y el desgaste institucional.",
+        "sierra": "La distancia con el centro politico siguio igual y las reformas regionales quedaron cortas.",
+        "selva": "Persistieron los problemas de infraestructura, salud y acceso estatal."
+      }
+    },
+    {
+      "name": "Martin Vizcarra",
+      "period": "2018-2020",
+      "party": "Sin partido solido",
+      "ideology": "Anticorrupcion institucional",
+      "causes": "Asumio tras la renuncia de PPK y capitalizo el cansancio ciudadano frente a la corrupcion y el bloqueo legislativo.",
+      "positivos": [
+        "Agenda anticorrupcion y enfrentamiento al abuso parlamentario",
+        "Impulso de reformas politicas",
+        "Respuesta inicial de gestion durante la pandemia",
+        "Mayor legitimidad temporal frente a una clase politica desgastada"
+      ],
+      "negativos": [
+        "Profunda inestabilidad politica y abuso de la herramienta de disolucion del Congreso",
+        "Gestion irregular durante la pandemia y crisis de salud",
+        "Acusaciones de corrupcion que terminaron por destruir su imagen",
+        "Poca capacidad para construir partidos o acuerdos duraderos",
+        "La Costa y Lima concentraron otra vez la pelea politica",
+        "La Sierra y la Selva sufrieron con fuerza los limites del sistema de salud"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis politica se concentro en Lima y reflejo la debilidad de las instituciones.",
+        "sierra": "La pandemia expuso la fragilidad sanitaria y la falta de presencia estatal.",
+        "selva": "Las brechas de salud, transporte y conectividad quedaron en evidencia."
+      }
+    },
+    {
+      "name": "Manuel Merino",
+      "period": "2020",
+      "party": "Accion Popular",
+      "ideology": "Sucesion congresal",
+      "causes": "Asumio tras la vacancia de Vizcarra en un clima de desconfianza, percepcion de maniobra politica y ruptura de legitimidad.",
+      "positivos": [
+        "Cumplio formalmente con la sucesion constitucional",
+        "Reflejo la presion por resolver el vacio de poder"
+      ],
+      "negativos": [
+        "Gobierno sin legitimidad social",
+        "Manejo represivo de protestas con muertes de manifestantes",
+        "Resigno en pocos dias por el rechazo nacional",
+        "Dejo en evidencia la fragilidad institucional del pais",
+        "La Costa, sobre todo Lima, concentro la protesta mas fuerte",
+        "La Sierra y la Selva leyeron el episodio como captura de poder por elites"
+      ],
+      "impactoRegional": {
+        "costa": "Las protestas urbanas derrumbaron el gobierno en muy poco tiempo.",
+        "sierra": "Se amplio la desconfianza frente a las maniobras politicas del centro.",
+        "selva": "La crisis reafirmo la sensacion de abandono politico."
+      }
+    },
+    {
+      "name": "Pedro Castillo",
+      "period": "2021-2022",
+      "party": "Peru Libre",
+      "ideology": "Izquierda radical",
+      "causes": "Fue elegido por el voto rural y antiestablishment, impulsado por el hartazgo frente a Lima, la desigualdad y la falta de representacion regional.",
+      "positivos": [
+        "Dio voz politica a sectores rurales y docentes historicamente marginados",
+        "Reabrio el debate sobre desigualdad territorial",
+        "Puso en agenda la reforma del Estado y la inclusion social"
+      ],
+      "negativos": [
+        "Falta de experiencia y caos administrativo desde el inicio",
+        "Corrupcion y designaciones inestables que destruyeron su gobernabilidad",
+        "Polarizacion extrema con Congreso, prensa y sectores productivos",
+        "Intento de autogolpe que termino de quebrar el orden constitucional",
+        "La Sierra paso rapidamente de la esperanza al desencanto y la protesta",
+        "La Costa vio aumentar el miedo economico y la inestabilidad",
+        "La Selva siguio sin una politica clara de desarrollo"
+      ],
+      "impactoRegional": {
+        "costa": "El rechazo de elites y mercados aumento la inestabilidad politica y economica.",
+        "sierra": "Su base social se sintio traicionada por la improvisacion, la crisis y la violencia posterior.",
+        "selva": "Las promesas de cambio no se tradujeron en presencia efectiva del Estado."
+      }
+    },
+    {
+      "name": "Dina Boluarte",
+      "period": "2022-2024",
+      "party": "Peru Libre (luego independiente)",
+      "ideology": "Continuismo institucional",
+      "causes": "Asumio tras la ruptura provocada por Castillo, en medio de una crisis de legitimidad, protestas masivas y polarizacion nacional.",
+      "positivos": [
+        "Mantuvo la sucesion constitucional y evito un vacio total de poder",
+        "Reabrio algunos canales de dialogo institucional",
+        "Logro una estabilidad relativa en medio de la crisis"
+      ],
+      "negativos": [
+        "Represion de protestas con muertes y violencia estatal",
+        "Crisis de legitimidad que nunca se recupero",
+        "Investigaciones y sospechas de corrupcion",
+        "Respuesta debil frente a la inseguridad, crimen y desconfianza ciudadana",
+        "La Sierra fue la zona mas golpeada por la represion y el resentimiento",
+        "La Costa mantuvo alta polarizacion y rechazo politico",
+        "La Selva continuo con poca presencia estatal y problemas de control territorial"
+      ],
+      "impactoRegional": {
+        "costa": "Predomino la polarizacion politica y la sensacion de crisis permanente.",
+        "sierra": "Las protestas y la respuesta violenta agravaron la ruptura con el poder central.",
+        "selva": "Persistieron la exclusion, el delito y la debilidad de los servicios publicos."
+      }
+    }
+  ]
+}

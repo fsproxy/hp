@@ -1,0 +1,1688 @@
+{
+  "site": {
+    "title": "Historia del Perú",
+    "subtitle": "Un viaje a través de los siglos: desde los antiguos imperios hasta la política moderna",
+    "description": "Explora la rica historia del Perú, desde la época prehispánica hasta la actualidad, incluyendo sus principales partidos políticos."
+  },
+  "historicalPeriods": [
+    {
+      "id": "prehispanic",
+      "name": "Época Prehispánica",
+      "period": "11,000 a.C. - 1438 d.C.",
+      "description": "El período más largo de la historia peruana, caracterizado por el desarrollo de grandes civilizaciones andinas como Chavín, Moche, Nazca, Wari y Tiahuanaco.",
+      "highlights": [
+        "Desarrollo de la agricultura y ganadería",
+        "Construcción de complejos arquitectónicos",
+        "Creación de sistemas de escritura y cerámica",
+        "Organización de sociedades complejas"
+      ]
+    },
+    {
+      "id": "inca",
+      "name": "Época Incaica",
+      "period": "1438 - 1532 d.C.",
+      "description": "El apogeo del imperio más grande de América del Sur. Los Incas bajo Pachacútec expandieron su imperio desde el Cusco hasta abarcar gran parte de Sudamérica.",
+      "highlights": [
+        "Construcción de Machu Picchu y otras obras maestras",
+        "Sistema de caminos (Qhapaq Ñan)",
+        "Organización administrativa sofisticada",
+        "Desarrollo del quipu como sistema de registro"
+      ]
+    },
+    {
+      "id": "conquest",
+      "name": "Conquista Española",
+      "period": "1532 - 1535 d.C.",
+      "description": "La llegada de Francisco Pizarro y sus conquistadores marca el inicio del fin del imperio inca. La captura y ejecución de Atahualpa simboliza el colapso del orden inca.",
+      "highlights": [
+        "Llegada de Francisco Pizarro (1532)",
+        "Captura de Atahualpa",
+        "Caída del imperio inca",
+        "Inicio de la dominación española"
+      ]
+    },
+    {
+      "id": "viceroyalty",
+      "name": "Virreinato del Perú",
+      "period": "1535 - 1821 d.C.",
+      "description": "Tres siglos de dominio español. El Perú se convierte en el centro político y económico del imperio español en América del Sur, gracias a sus riquezas mineras, especialmente la plata de Potosí.",
+      "highlights": [
+        "Explotación de minas de plata",
+        "Fundación de Lima como capital",
+        "Desarrollo de la sociedad colonial",
+        "Reformas borbónicas del siglo XVIII"
+      ]
+    },
+    {
+      "id": "independence",
+      "name": "Independencia y Emancipación",
+      "period": "1821 - 1826 d.C.",
+      "description": "El Perú logra su independencia de España bajo el liderazgo de José de San Martín y Simón Bolívar. Se establece la República Peruana como estado soberano.",
+      "highlights": [
+        "Proclamación de la independencia (1821)",
+        "Campañas de San Martín y Bolívar",
+        "Batalla de Ayacucho (1824)",
+        "Fundación de la República Peruana"
+      ]
+    },
+    {
+      "id": "republic",
+      "name": "República Peruana",
+      "period": "1826 - Actualidad",
+      "description": "Desde la independencia, el Perú ha experimentado múltiples cambios políticos, constituciones, gobiernos civiles y militares, y la evolución de su sistema de partidos políticos.",
+      "highlights": [
+        "Múltiples constituciones",
+        "Gobiernos civiles y militares",
+        "Desarrollo del sistema de partidos",
+        "Transición a la democracia moderna"
+      ]
+    }
+  ],
+  "politicalParties": [
+    {
+      "id": "pcp",
+      "name": "Partido Comunista Peruano (PCP)",
+      "founded": 1928,
+      "founder": "Jose Carlos Mariategui",
+      "ideology": "Comunista, marxista",
+      "description": "Fundado por el intelectual Jose Carlos Mariategui, es uno de los partidos comunistas mas antiguos de America Latina.",
+      "significance": "Ha jugado un papel importante en los movimientos sociales y politicos del Peru, aunque con presencia limitada en gobiernos.",
+      "contexto": "Crisis de la republica oligarquica, desigualdad social extrema y ausencia de representacion real para obreros e indigenas.",
+      "hechos": [
+        "Nacio como expresion politica de la critica marxista a la oligarquia peruana",
+        "Influyo en sindicatos, intelectuales y movimientos de izquierda",
+        "Su peso fue mas ideologico que electoral"
+      ],
+      "positivos": [
+        "Introdujo un lenguaje politico radical sobre desigualdad y cuestion indigena",
+        "Aporto formacion doctrinaria a la izquierda peruana",
+        "Visibilizo el problema social que el Estado ignoraba"
+      ],
+      "negativos": [
+        "Tuvo escasa capacidad de gobernar o construir mayorias nacionales",
+        "Su influencia se fragmento en corrientes rivales",
+        "En la practica, no logro transformar la estructura estatal peruana"
+      ],
+      "resumenAnalitico": "El PCP fue fundamental como matriz ideologica, pero debil como fuerza de poder. Su historia muestra la distancia entre la critica intelectual y la capacidad real de reforma del Estado.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Matriz ideologica marxista",
+        "Influencia doctrinaria radical",
+        "Baja capacidad de gobernabilidad"
+      ]
+    },
+    {
+      "id": "apra",
+      "name": "Partido Aprista Peruano (PAP)",
+      "founded": 1930,
+      "founder": "Victor Raul Haya de la Torre",
+      "ideology": "Socialdemocrata, nacionalista",
+      "description": "Uno de los partidos mas antiguos y tradicionales del Peru. Fundado con una ideologia de reformismo social y nacionalismo economico.",
+      "significance": "Fue el primer partido moderno en el Peru y ha tenido gran influencia en la politica nacional durante el siglo XX.",
+      "contexto": "Politica de masas en un Peru centralista, con expansion de sindicatos, estudiantes y sectores medios urbanos.",
+      "hechos": [
+        "Consolido una organizacion nacional duradera",
+        "Se enfrento al orden oligarquico y militar",
+        "Goberno el pais en distintos momentos con resultados mixtos"
+      ],
+      "positivos": [
+        "Aporto una de las primeras estructuras partidarias modernas del Peru",
+        "Movilizo sectores populares que antes estaban fuera del sistema",
+        "Instalo un discurso de reforma social y soberania economica"
+      ],
+      "negativos": [
+        "Derivo en clientelismo y burocracia partidaria",
+        "Su practica de gobierno fue inconsistentemente reformista",
+        "Contribuyo a polarizar el sistema politico peruano"
+      ],
+      "resumenAnalitico": "El APRA transformo la politica peruana al masificarla, pero tambien la encierro en una logica de confrontacion y aparato. Fue un partido historico, aunque con un legado ambivalente.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Partido de masas con historial de confrontacion",
+        "Clientelismo y polarizacion historica"
+      ]
+    },
+    {
+      "id": "accion-popular",
+      "name": "Accion Popular",
+      "founded": 1956,
+      "founder": "Fernando Belaunde Terry",
+      "ideology": "Democracia cristiana, reformismo",
+      "description": "Partido de tendencia democristiana fundado por Fernando Belaunde Terry, quien fue presidente en dos ocasiones.",
+      "significance": "Represento una alternativa de centro-derecha en la politica peruana durante la segunda mitad del siglo XX.",
+      "contexto": "Creciente urbanizacion, presion por integracion territorial y desgaste de las opciones tradicionales.",
+      "hechos": [
+        "Propuso una modernizacion basada en obras publicas y reforma institucional",
+        "Busco expandir presencia estatal fuera de Lima",
+        "Fue clave en la transicion de varios momentos democraticos"
+      ],
+      "positivos": [
+        "Ofrecio una via civilista frente al militarismo",
+        "Impulso infraestructura y una vision integradora del pais",
+        "Mantuvo una agenda reformista moderada"
+      ],
+      "negativos": [
+        "No resolvio el problema agrario ni la desigualdad estructural",
+        "Su fuerza organizativa fue mas debil que la del APRA o el fujimorismo",
+        "Su influencia quedo muy concentrada en el centro urbano"
+      ],
+      "resumenAnalitico": "Accion Popular represento una reforma moderada y civilista, pero su alcance fue limitado por el centralismo y la falta de una base social mas amplia.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Reformismo moderado",
+        "Riesgo politico bajo relativo"
+      ]
+    },
+    {
+      "id": "ppc",
+      "name": "Partido Popular Cristiano (PPC)",
+      "founded": 1966,
+      "founder": "Luis Bedoya Reyes",
+      "ideology": "Democracia cristiana, conservador",
+      "description": "Partido de orientacion conservadora y democristiana, fundado por Luis Bedoya Reyes.",
+      "significance": "Ha participado en coaliciones y gobiernos, representando los intereses de sectores empresariales y conservadores.",
+      "contexto": "Reacomodo de la derecha civil en respuesta al crecimiento del populismo, la izquierda y el militarismo.",
+      "hechos": [
+        "Articul? una derecha partidaria con discurso institucional",
+        "Particip? en coaliciones electorales y municipales",
+        "Mantuvo influencia en la politica lime?a"
+      ],
+      "positivos": [
+        "Aporto moderacion al campo conservador",
+        "Defendio la economia de mercado y la estabilidad institucional",
+        "Ofrecio cuadros tecnicos y politicos de gestion"
+      ],
+      "negativos": [
+        "Tuvo limitada expansion nacional",
+        "No logro convertirse en una derecha de masas",
+        "Su base politica se mantuvo demasiado estrecha"
+      ],
+      "resumenAnalitico": "El PPC fue una derecha institucional seria, pero nunca una fuerza de arrastre nacional. Su peso fue mayor como contrapeso moderado que como proyecto dominante.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Conservadurismo institucional",
+        "Riesgo politico bajo relativo"
+      ]
+    },
+    {
+      "id": "izquierda-unida",
+      "name": "Izquierda Unida (IU)",
+      "founded": 1980,
+      "founder": "Coalicion de partidos de izquierda",
+      "ideology": "Izquierda, socialismo democratico",
+      "description": "Coalicion de partidos de izquierda que surgio durante la transicion a la democracia en 1980.",
+      "significance": "Fue una fuerza politica importante en los anos 80 y 90, representando a sectores progresistas y de izquierda.",
+      "contexto": "Retorno a la democracia tras la dictadura militar, con crisis economica y polarizacion ideologica.",
+      "hechos": [
+        "Unifico varias corrientes de izquierda en un solo frente",
+        "Compitio como alternativa al APRA y a la derecha",
+        "Represento demandas de sindicatos, barrios populares y sectores urbanos"
+      ],
+      "positivos": [
+        "Dio coherencia electoral a la izquierda dispersa",
+        "Aporto debate sobre reforma social y desigualdad",
+        "Fue una respuesta a la exclusi?n politica de amplios sectores"
+      ],
+      "negativos": [
+        "La coalicion fue internamente fragil y poco durable",
+        "Su influencia se diluyo con el tiempo",
+        "No logro traducir su discurso en poder estable de gobierno"
+      ],
+      "resumenAnalitico": "Izquierda Unida fue importante como intento de articulacion progresista, pero se desgasto por divisiones internas y por la falta de una estrategia de poder consistente.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Coalicion de izquierda",
+        "Fragilidad interna y baja durabilidad"
+      ]
+    },
+    {
+      "id": "fujimori",
+      "name": "Cambio 90 / Nueva Mayoria",
+      "founded": 1990,
+      "founder": "Alberto Fujimori",
+      "ideology": "Populismo, autoritarismo",
+      "description": "Movimiento politico que llevo a Alberto Fujimori a la presidencia en 1990. Se caracterizo por su populismo y posteriormente por medidas autoritarias.",
+      "significance": "Marco un punto de quiebre en la politica peruana, implementando reformas economicas neoliberales y medidas controvertidas.",
+      "contexto": "Crisis de hiperinflacion, violencia terrorista y desgaste terminal de los partidos tradicionales.",
+      "hechos": [
+        "Llevo al poder un outsider sin maquinaria partidaria clasica",
+        "Sirvio como vehiculo de concentracion de poder del fujimorismo",
+        "Reconfiguro la derecha peruana desde la logica del shock y el control"
+      ],
+      "positivos": [
+        "Capturo el voto de emergencia en una crisis extrema",
+        "Permitio una respuesta rapida frente al colapso economico y terrorista",
+        "Construyo una marca politica muy efectiva electoralmente"
+      ],
+      "negativos": [
+        "Derivo en autoritarismo y destruccion institucional",
+        "Normalizo la concentracion del poder en torno al liderazgo personal",
+        "Dejo una herencia de corrupcion y violacion de derechos humanos"
+      ],
+      "resumenAnalitico": "Cambio 90 fue eficaz como vehiculo electoral de crisis, pero toxico para la institucionalidad. Su mayor exito politico fue tambien su mayor costo democratico.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Autoritarismo",
+        "Autogolpe",
+        "Red de corrupcion",
+        "Ruptura del orden democratico"
+      ]
+    },
+    {
+      "id": "juntos",
+      "name": "Juntos por el Peru",
+      "founded": 2009,
+      "founder": "Lourdes Flores Nano",
+      "ideology": "Centro, reformismo",
+      "description": "Partido de centro fundado por Lourdes Flores Nano, que ha participado en varias contiendas electorales.",
+      "significance": "Representa una opcion centrista en la politica peruana.",
+      "contexto": "Cansancio ante la polarizacion, pero sin una mayoria social estable para el centrismo.",
+      "hechos": [
+        "Busco ocupar el espacio del centro moderado",
+        "Se movio entre alianzas y rebrandings electorales",
+        "Intento captar voto urbano y tecnocratico"
+      ],
+      "positivos": [
+        "Promovio moderacion frente a extremos",
+        "Defendio una vision institucional y reformista",
+        "Ofrecio una alternativa de dialogo politico"
+      ],
+      "negativos": [
+        "No logro arraigo electoral amplio",
+        "Quedo atrapado entre bloques mas polarizados",
+        "Su impacto real en el sistema politico fue reducido"
+      ],
+      "resumenAnalitico": "Juntos por el Peru expresa el deseo de centro, pero tambien la fragilidad de ese espacio en una politica dominada por extremos y liderazgos personales.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Centrismo moderado",
+        "Escaso arraigo territorial"
+      ]
+    },
+    {
+      "id": "avanza-pais",
+      "name": "Avanza Pais",
+      "founded": 2011,
+      "founder": "Oscar Andrade Araujo",
+      "ideology": "Centro-derecha, reformismo",
+      "description": "Partido de centro-derecha que ha participado en coaliciones electorales y gobiernos.",
+      "significance": "Representa una opcion de centro-derecha en la politica peruana contemporanea.",
+      "contexto": "Fragmentacion del sistema partidario y aparicion de siglas funcionales al ciclo electoral mas que a proyectos de largo plazo.",
+      "hechos": [
+        "Se insert? como opcion liberal-conservadora en un sistema fragmentado",
+        "Particip? en alianzas y candidaturas coyunturales",
+        "Tuvo influencia mayormente electoral y medi?tica"
+      ],
+      "positivos": [
+        "Ofrecio una opcion de centro-derecha sin el peso del fujimorismo",
+        "Aporto retorica de modernizacion y gestion",
+        "Sirvio como canal para sectores economicos y urbanos"
+      ],
+      "negativos": [
+        "Su identidad politica fue poco consistente",
+        "Tuvo escasa profundidad territorial",
+        "Se percibio mas como vehiculo electoral que como partido programatico"
+      ],
+      "resumenAnalitico": "Avanza Pais es un partido de presencia util pero limitada, mas funcional al momento electoral que a una construccion ideologica de largo plazo.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Vehiculo electoral pragmatico",
+        "Identidad programatica limitada"
+      ]
+    },
+    {
+      "id": "fuerza-popular",
+      "name": "Fuerza Popular",
+      "founded": 2011,
+      "founder": "Keiko Fujimori",
+      "ideology": "Derecha, fujimorismo",
+      "description": "Partido fundado por Keiko Fujimori, hija del expresidente Alberto Fujimori. Continua la tradicion politica del fujimorismo.",
+      "significance": "Ha sido una fuerza politica importante en las ultimas decadas, ganando las elecciones presidenciales de 2016.",
+      "contexto": "Etapa post autoritaria, con nostalgia por el orden fujimorista y rechazo simultaneo a la corrupcion heredada.",
+      "hechos": [
+        "Reorganizo el fujimorismo como partido de larga duracion",
+        "Consolido una bancada disciplinada en el Congreso",
+        "Se mantuvo como eje de la derecha dura peruana"
+      ],
+      "positivos": [
+        "Logro construir una maquinaria electoral persistente",
+        "Represento a votantes que priorizan orden y mano dura",
+        "Mantuvo peso politico aun sin ganar la presidencia"
+      ],
+      "negativos": [
+        "Profundizo la polarizacion politica",
+        "Su liderazgo quedo marcado por denuncias de financiamiento irregular",
+        "Contribuyo mas al bloqueo institucional que al consenso"
+      ],
+      "resumenAnalitico": "Fuerza Popular es una estructura electoral fuerte pero divisiva. Su fuerza organizativa la hace relevante, aunque su impacto nacional suele ser mas obstructivo que integrador.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Polarizacion politica",
+        "Bloqueo institucional",
+        "Arrastre del fujimorismo"
+      ]
+    },
+    {
+      "id": "peru-libre",
+      "name": "Peru Libre",
+      "founded": 2012,
+      "founder": "Vladimir Cerron",
+      "ideology": "Izquierda, socialismo",
+      "description": "Partido de izquierda fundado por Vladimir Cerron. Gano las elecciones presidenciales de 2021 con Pedro Castillo como candidato.",
+      "significance": "Representa el resurgimiento de la izquierda politica en el Peru en el siglo XXI.",
+      "contexto": "Desencanto con la clase politica tradicional, centralismo persistente y demanda de cambio radical en regiones andinas.",
+      "hechos": [
+        "Capitalizo el voto antiestablishment del interior",
+        "Llev? a Pedro Castillo a la presidencia en 2021",
+        "Se presento como ruptura frente al sistema tradicional"
+      ],
+      "positivos": [
+        "Dio canal politico a sectores regionales excluidos",
+        "Puso en agenda redistribucion y reforma estructural",
+        "Desafio el monopolio lime?o de la politica nacional"
+      ],
+      "negativos": [
+        "Su liderazgo quedo marcado por radicalidad y conflicto",
+        "Se asocio a inestabilidad y mala gestion",
+        "No logro convertir su impulso electoral en gobierno durable"
+      ],
+      "resumenAnalitico": "Peru Libre fue una respuesta explosiva al centralismo, pero su radicalidad y fragilidad organizativa la volvieron un factor de inestabilidad mas que de reforma efectiva.",
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Izquierda radical",
+        "Discurso de ruptura",
+        "Riesgo de polarizacion institucional"
+      ]
+    }
+  ],
+  "politicalLeaders": [
+    {
+      "id": "jose-carlos-mariategui",
+      "name": "Jose Carlos Mariategui",
+      "party": "Partido Comunista Peruano (PCP)",
+      "birthYear": 1894,
+      "deathYear": 1930,
+      "birthPlace": "Moquegua",
+      "role": "Fundador del pensamiento socialista peruano",
+      "biography": "Jose Carlos Mariategui fue el intelectual marxista mas influyente de la primera mitad del siglo XX peruano. Desde su critica a la oligarquia, el gamonalismo y la exclusion indigena, marco el debate politico con una mirada dura sobre la desigualdad estructural del pais.",
+      "achievements": [
+        "Fundacion del Partido Socialista del Peru en 1928",
+        "Base intelectual del Partido Comunista Peruano",
+        "Analisis marxista de la realidad peruana",
+        "Referencia central sobre la cuestion indigena"
+      ],
+      "contexto": "Peru oligarquico, centralista y excluyente, con elites coste?as dominando un pais mayoritariamente andino y rural.",
+      "hechos": [
+        "Escribio Siete ensayos de interpretacion de la realidad peruana",
+        "Planteo que la cuestion indigena era social y economica, no solo cultural",
+        "Formo una base ideologica para la izquierda peruana posterior"
+      ],
+      "positivos": [
+        "Aporto una lectura profunda y original de la desigualdad peruana",
+        "Puso en el centro la cuestion indigena y la injusticia social",
+        "Dejo una obra intelectual de enorme influencia regional"
+      ],
+      "negativos": [
+        "Su influencia fue mas doctrinaria que de gobierno real",
+        "Su legado fue apropiado por corrientes radicales muy distintas entre si",
+        "No construyo una organizacion de poder capaz de cambiar el Estado por si misma"
+      ],
+      "resumenAnalitico": "Mariategui es clave para entender la izquierda peruana, pero su impacto fue sobre todo intelectual. Su gran valor esta en haber diagnosticado el problema estructural del Peru; su limite fue no tener poder institucional para resolverlo.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Marxismo influyente",
+        "Base doctrinaria para corrientes radicales"
+      ]
+    },
+    {
+      "id": "haya-de-la-torre",
+      "name": "Victor Raul Haya de la Torre",
+      "party": "Partido Aprista Peruano (PAP)",
+      "birthYear": 1895,
+      "deathYear": 1979,
+      "birthPlace": "Trujillo",
+      "role": "Fundador y lider historico del APRA",
+      "biography": "Victor Raul Haya de la Torre fundo el APRA y convirtio a su movimiento en una de las fuerzas politicas mas duraderas del Peru. Fue una figura de organizacion masiva, discurso antioligarquico y fuerte oposicion al poder tradicional.",
+      "achievements": [
+        "Fundacion del APRA en 1930",
+        "Construccion de un partido de masas",
+        "Presidencia de la Asamblea Constituyente de 1978",
+        "Influencia en la politica latinoamericana"
+      ],
+      "contexto": "Auge del antioligarquismo y de la politizacion de obreros, estudiantes y sectores medios urbanos en un Peru centralizado.",
+      "hechos": [
+        "Organizo una de las bases politicas mas amplias del siglo XX",
+        "Sostuvo una oposicion constante contra regimens autoritarios",
+        "Marca la entrada de la politica de masas moderna en el pais"
+      ],
+      "positivos": [
+        "Convirtio el APRA en una fuerza politica nacional durable",
+        "Amplio la participacion politica de sectores populares",
+        "Aporto un lenguaje de reforma social y anti exclusio?n"
+      ],
+      "negativos": [
+        "Su estilo alimento una politica de confrontacion permanente",
+        "El APRA tambien derivo en clientelismo y caudillismo interno",
+        "Nunca logro convertir su fuerza historica en una presidencia estable propia"
+      ],
+      "resumenAnalitico": "Haya de la Torre modernizo la politica peruana, pero tambien normalizo la logica del partido-fuerza y del conflicto permanente con el Estado. Su legado es enorme, aunque ambiguo.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Politica de masas confrontativa",
+        "Partido-fuerza historico"
+      ]
+    },
+    {
+      "id": "fernando-belaunde",
+      "name": "Fernando Belaunde Terry",
+      "party": "Accion Popular",
+      "birthYear": 1912,
+      "deathYear": 2002,
+      "birthPlace": "Lima",
+      "role": "Presidente de la Republica y reformista democratico",
+      "biography": "Fernando Belaunde Terry represento una version modernizadora y civilista de la politica peruana. Enfrento el centralismo con un discurso de integracion, obras y reforma institucional, aunque no resolvio las brechas estructurales del pais.",
+      "achievements": [
+        "Fundacion de Accion Popular en 1956",
+        "Dos presidencias constitucionales",
+        "Impulso de infraestructura y vivienda",
+        "Defensa de la continuidad democratica"
+      ],
+      "contexto": "Peru de posguerra con urbanizacion acelerada, presion campesina por tierras y un Estado aun incapaz de integrar al interior.",
+      "hechos": [
+        "Impulso carreteras y obras de integracion territorial",
+        "Defendio la institucionalidad frente al militarismo",
+        "Goberno en medio de creciente conflictividad rural y social"
+      ],
+      "positivos": [
+        "Promovio obras y presencia estatal fuera de Lima",
+        "Sostuvo un proyecto civilista frente al avance militar",
+        "Dejo una idea de modernizacion institucional"
+      ],
+      "negativos": [
+        "Su reforma social fue demasiado lenta para la crisis agraria",
+        "No contuvo la desigualdad entre Lima y las regiones",
+        "Su incapacidad para resolver el conflicto rural preparo terreno para rupturas posteriores"
+      ],
+      "resumenAnalitico": "Belaunde fue un reformista con voluntad integradora, pero el aparato estatal quedo corto frente a la magnitud de la desigualdad peruana. Su legado es de obra publica y debilidad estructural al mismo tiempo.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Reformismo civilista",
+        "Riesgo politico bajo relativo"
+      ]
+    },
+    {
+      "id": "luis-bedoya-reyes",
+      "name": "Luis Bedoya Reyes",
+      "party": "Partido Popular Cristiano (PPC)",
+      "birthYear": 1925,
+      "deathYear": 2015,
+      "birthPlace": "Lima",
+      "role": "Fundador de la derecha democristiana",
+      "biography": "Luis Bedoya Reyes organizo una derecha democristiana que busco orden, economia de mercado y moderacion politica. Fue una referencia importante para el conservadurismo democratico peruano.",
+      "achievements": [
+        "Fundacion del PPC en 1966",
+        "Construccion de una derecha institucional",
+        "Participacion en coaliciones y contiendas electorales",
+        "Influencia en la politica municipal de Lima"
+      ],
+      "contexto": "Crecimiento urbano de Lima y necesidad de una opcion conservadora civil frente al populismo, la izquierda y el militarismo.",
+      "hechos": [
+        "Dio forma a una derecha moderna y electoral",
+        "Defendio el orden democratico con valores cristianos",
+        "Proyect? liderazgo desde la politica lime?a hacia el plano nacional"
+      ],
+      "positivos": [
+        "Aporto una derecha menos caudillista y mas partidaria",
+        "Consolido una cultura politica de gestion y coalicion",
+        "Ofrecio una alternativa a los extremos ideologicos"
+      ],
+      "negativos": [
+        "Su base politica quedo muy limitada fuera de Lima",
+        "No logro convertirse en una fuerza nacional dominante",
+        "Su espacio fue absorbido por opciones mas duras o mas populistas"
+      ],
+      "resumenAnalitico": "Bedoya represento una derecha institucional importante, pero su alcance fue estrecho y muy lime?o. Fue mas eficaz como referencia de moderacion que como fuerza de transformacion nacional.",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Conservadurismo democratico",
+        "Riesgo politico bajo relativo"
+      ]
+    },
+    {
+      "id": "alberto-fujimori",
+      "name": "Alberto Fujimori",
+      "party": "Cambio 90 / Nueva Mayoria",
+      "birthYear": 1938,
+      "deathYear": 2024,
+      "birthPlace": "Lima",
+      "role": "Presidente de la Republica (1990-2000)",
+      "biography": "Alberto Fujimori goberno en la crisis mas dura del Peru contemporaneo y combino medidas economicas drasticas con una concentracion autoritaria del poder. Su gobierno dejo estabilidad en algunos indicadores, pero tambien una de las herencias mas graves en derechos humanos y corrupcion.",
+      "achievements": [
+        "Estabilizacion economica inicial",
+        "Golpe fuerte contra Sendero Luminoso",
+        "Modernizacion urbana en varios sectores",
+        "Recuperacion macroeconomica parcial"
+      ],
+      "contexto": "Crisis total de hiperinflacion, terrorismo, debilidad estatal y desconfianza en el sistema politico tradicional.",
+      "hechos": [
+        "Dio un giro autoritario con el autogolpe de 1992",
+        "Construyo una red de poder junto a Montesinos",
+        "Asocio seguridad con abuso estatal y control politico"
+      ],
+      "positivos": [
+        "Logro frenar la hiperinflacion y ordenar la macroeconomia",
+        "Debilito a Sendero Luminoso de forma decisiva",
+        "Restablecio cierta percepcion de control estatal"
+      ],
+      "negativos": [
+        "Rompio el orden democratico y debilito el Congreso",
+        "Sostuvo una red de corrupcion y espionaje politico",
+        "Su regimen fue responsable de graves violaciones de derechos humanos",
+        "Su legado regional fue centralista y excluyente"
+      ],
+      "resumenAnalitico": "Fujimori es el ejemplo mas claro de eficacia autoritaria a cambio de institucionalidad destruida. Contuvo el colapso economico y la violencia armada, pero lo hizo consolidando un sistema corrupto y represivo.",
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Autogolpe",
+        "Red de corrupcion",
+        "Violaciones graves de derechos humanos"
+      ]
+    },
+    {
+      "id": "vladimir-cerron",
+      "name": "Vladimir Cerron",
+      "party": "Peru Libre",
+      "birthYear": 1962,
+      "deathYear": null,
+      "birthPlace": "Junin",
+      "role": "Fundador de Peru Libre",
+      "biography": "Vladimir Cerron representa la radicalizacion de la izquierda regional en el Peru contemporaneo. Su partido capitalizo el rechazo al centralismo y a las elites politicas, pero tambien quedo ligado a la polarizacion y a fuertes cuestionamientos judiciales.",
+      "achievements": [
+        "Fundacion de Peru Libre en 2012",
+        "Construccion de una base regional de izquierda",
+        "Influencia directa en la victoria de 2021",
+        "Agenda de ruptura con el centro politico"
+      ],
+      "contexto": "Desencanto con partidos tradicionales, brecha entre Lima y regiones andinas, y reaparicion de discursos de cambio radical.",
+      "hechos": [
+        "Articulo una izquierda regional dura y antiestablishment",
+        "Impulso una narrativa de confrontacion con Lima",
+        "Tuvo influencia decisiva en la candidatura de Castillo"
+      ],
+      "positivos": [
+        "Movilizo un electorado regional que se sentia excluido",
+        "Puso en agenda el problema del centralismo",
+        "Ayudo a reactivar el debate sobre redistribucion"
+      ],
+      "negativos": [
+        "Su liderazgo se asocio a investigacion por corrupcion",
+        "Promovio una politica de choque y alta confrontacion",
+        "Su proyecto abrio la puerta a una gobernabilidad muy fragil"
+      ],
+      "resumenAnalitico": "Cerron sintetiza el giro radical de la politica regional peruana. Su fuerza organizativa fue real, pero su estilo y su carga judicial reforzaron la inestabilidad y la desconfianza institucional.",
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Condena e investigacion por corrupcion",
+        "Prófugo de la justicia / evasión de captura",
+        "Radicalizacion politica de Peru Libre",
+        "Alegaciones publicas sobre apoyos o protecciones externas no corroboradas judicialmente"
+      ]
+    },
+    {
+      "id": "pedro-castillo",
+      "name": "Pedro Castillo",
+      "party": "Peru Libre",
+      "birthYear": 1969,
+      "deathYear": null,
+      "birthPlace": "Anguia, Cajamarca",
+      "role": "Presidente de la Republica (2021-2022)",
+      "biography": "Pedro Castillo encarn? el voto rural y antiestablishment. Su llegada expreso el hartazgo con Lima y el sistema politico, pero su gobierno quedo marcado por improvisacion, crisis permanente y ruptura institucional.",
+      "achievements": [
+        "Victoria electoral de 2021",
+        "Representacion de sectores rurales y docentes",
+        "Reactivacion del debate sobre desigualdad territorial",
+        "Cuestionamiento al centralismo politico"
+      ],
+      "contexto": "Peru polarizado, con pobreza regional persistente, rechazo a las elites y gran desconfianza hacia el sistema de partidos.",
+      "hechos": [
+        "Llego al poder sin estructura de gobierno solida",
+        "Acumulo crisis de gabinete y conflictos con el Congreso",
+        "Intento cerrar el Congreso en diciembre de 2022"
+      ],
+      "positivos": [
+        "Dio visibilidad politica a sectores historicamente excluidos",
+        "Obligo a discutir la brecha entre centro y regiones",
+        "Reforzo el debate sobre inclusion rural"
+      ],
+      "negativos": [
+        "Su falta de experiencia destruyo su gobernabilidad desde el inicio",
+        "Se vio envuelto en investigaciones por corrupcion",
+        "Su intento de autogolpe fue una ruptura frontal del orden democratico",
+        "Dejo al pais en una crisis politica e institucional profunda"
+      ],
+      "resumenAnalitico": "Castillo no logro convertir un mandato de protesta en un gobierno serio. Su figura paso rapidamente de simbolo de inclusion a ejemplo de improvisacion, debilidad estatal y peligro institucional.",
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Intento de disolver el Congreso y quiebre constitucional",
+        "Condena por conspiracion / rebelion en 2025",
+        "Gobernabilidad caotica y entorno politico radicalizado",
+        "Alegaciones publicas sobre influencia externa en su entorno, no corroboradas como hecho judicial"
+      ]
+    },
+    {
+      "id": "keiko-fujimori",
+      "name": "Keiko Fujimori",
+      "party": "Fuerza Popular",
+      "birthYear": 1975,
+      "deathYear": null,
+      "birthPlace": "Lima",
+      "role": "Lidera del fujimorismo contemporaneo",
+      "biography": "Keiko Fujimori heredo y reorganizo el fujimorismo como fuerza electoral de derecha. Su carrera se definio por la construccion de una maquina partidaria fuerte, pero tambien por la polarizacion y las investigaciones por financiamiento irregular.",
+      "achievements": [
+        "Fundacion de Fuerza Popular en 2011",
+        "Construccion de una estructura partidaria duradera",
+        "Mantenimiento del voto duro fujimorista",
+        "Influencia decisiva en el Congreso"
+      ],
+      "contexto": "Etapa post Fujimori, con desconfianza hacia las elites, cansancio de la inestabilidad y reacomodo de la derecha peruana.",
+      "hechos": [
+        "Consolido el fujimorismo como aparato electoral",
+        "Transformo el apellido Fujimori en marca politica",
+        "Aumento la polarizacion entre derecha e izquierda"
+      ],
+      "positivos": [
+        "Organizo una base politica disciplinada y persistente",
+        "Mantubo presencia nacional constante",
+        "Represento a sectores conservadores que buscaban orden"
+      ],
+      "negativos": [
+        "Su liderazgo profundizo la polarizacion nacional",
+        "Acumulo acusaciones de financiamiento irregular",
+        "Su proyecto estuvo mas orientado a bloqueo que a reforma",
+        "Reforzo la logica de confrontacion heredada del fujimorismo"
+      ],
+      "resumenAnalitico": "Keiko Fujimori es una lider electoral muy fuerte, pero su impacto politico ha sido mas destructivo que constructivo para la estabilidad democratica. Su peso no se mide solo por votos, sino por la capacidad de tensionar el sistema.",
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Polarizacion sostenida",
+        "Bloqueo institucional",
+        "Carga politica del fujimorismo"
+      ]
+    }
+  ],
+  "governmentPowers": [
+    {
+      "id": "executive",
+      "name": "Poder Ejecutivo",
+      "description": "Encabezado por el Presidente de la República, quien es el jefe de estado y de gobierno. El presidente es elegido por voto popular para un período de 5 años sin reelección inmediata.",
+      "responsibilities": [
+        "Dirigir la política general del Estado",
+        "Administrar los recursos públicos",
+        "Cumplir y hacer cumplir las leyes",
+        "Representar al Estado en relaciones internacionales",
+        "Comandancia suprema de las Fuerzas Armadas"
+      ],
+      "structure": "Presidente, Vicepresidentes, Consejo de Ministros",
+      "currentYear": 2026
+    },
+    {
+      "id": "legislative",
+      "name": "Poder Legislativo",
+      "description": "Desde 2026, el Congreso de la República es bicameral, compuesto por el Senado (60 miembros) y la Cámara de Diputados (130 miembros). Esta estructura reemplaza el sistema unicameral anterior.",
+      "responsibilities": [
+        "Legislar y aprobar leyes",
+        "Controlar al poder ejecutivo",
+        "Representar al pueblo peruano",
+        "Aprobar el presupuesto nacional",
+        "Ratificar tratados internacionales"
+      ],
+      "structure": "Senado (60 senadores) + Cámara de Diputados (130 diputados)",
+      "bicameral": true,
+      "senateFunctions": [
+        "Nombramiento de magistrados del Tribunal Constitucional",
+        "No puede ser disuelto por el presidente",
+        "Control de altos funcionarios",
+        "Ratificación de tratados internacionales"
+      ],
+      "deputyFunctions": [
+        "Legislación ordinaria",
+        "Control presupuestario",
+        "Iniciativas de ley",
+        "Acusación constitucional"
+      ],
+      "currentYear": 2026
+    },
+    {
+      "id": "judicial",
+      "name": "Poder Judicial",
+      "description": "Encabezado por la Corte Suprema de Justicia, administra justicia a través de diversos tribunales y juzgados. Garantiza la aplicación de las leyes y la protección de los derechos fundamentales.",
+      "responsibilities": [
+        "Administrar justicia",
+        "Aplicar las leyes",
+        "Proteger los derechos fundamentales",
+        "Resolver conflictos entre ciudadanos",
+        "Garantizar el debido proceso"
+      ],
+      "structure": "Corte Suprema, Cortes Superiores, Juzgados",
+      "institutions": [
+        "Corte Suprema de Justicia",
+        "Cortes Superiores (por región)",
+        "Juzgados de Primera Instancia",
+        "Tribunal Constitucional",
+        "Juzgados de Paz"
+      ]
+    }
+  ],
+  "presidents": [
+    {
+      "name": "José de San Martín",
+      "start": 1821,
+      "end": 1822,
+      "period": "1821-1822"
+    },
+    {
+      "name": "José de la Riva-Agüero",
+      "start": 1823,
+      "end": 1823,
+      "period": "1823"
+    },
+    {
+      "name": "Simón Bolívar",
+      "start": 1824,
+      "end": 1826,
+      "period": "1824-1826"
+    },
+    {
+      "name": "Andrés de Santa Cruz",
+      "start": 1826,
+      "end": 1844,
+      "period": "1826-1844"
+    },
+    {
+      "name": "Ramón Castilla",
+      "start": 1844,
+      "end": 1862,
+      "period": "1844-1862"
+    },
+    {
+      "name": "Miguel Grau",
+      "start": 1879,
+      "end": 1879,
+      "period": "1879"
+    },
+    {
+      "name": "Nicolás de Piérola",
+      "start": 1879,
+      "end": 1881,
+      "period": "1879-1881"
+    },
+    {
+      "name": "Andrés Avelino Cáceres",
+      "start": 1881,
+      "end": 1923,
+      "period": "1881-1923"
+    },
+    {
+      "name": "Augusto B. Leguía",
+      "start": 1908,
+      "end": 1930,
+      "period": "1908-1930"
+    },
+    {
+      "name": "Luis M. Sánchez Cerro",
+      "start": 1930,
+      "end": 1933,
+      "period": "1930-1933"
+    },
+    {
+      "name": "Óscar R. Benavides",
+      "start": 1933,
+      "end": 1939,
+      "period": "1933-1939"
+    },
+    {
+      "name": "Manuel Prado y Ugarteche",
+      "start": 1939,
+      "end": 1945,
+      "period": "1939-1945"
+    },
+    {
+      "name": "José Luis Bustamante y Rivero",
+      "start": 1945,
+      "end": 1948,
+      "period": "1945-1948"
+    },
+    {
+      "name": "Manuel A. Odría",
+      "start": 1948,
+      "end": 1956,
+      "period": "1948-1956"
+    },
+    {
+      "name": "Manuel Prado y Ugarteche",
+      "start": 1956,
+      "end": 1962,
+      "period": "1956-1962"
+    },
+    {
+      "name": "Fernando Belaúnde Terry",
+      "start": 1963,
+      "end": 1968,
+      "period": "1963-1968"
+    },
+    {
+      "name": "Juan Velasco Alvarado",
+      "start": 1968,
+      "end": 1975,
+      "period": "1968-1975"
+    },
+    {
+      "name": "Francisco Morales Bermúdez",
+      "start": 1975,
+      "end": 1980,
+      "period": "1975-1980"
+    },
+    {
+      "name": "Fernando Belaúnde Terry",
+      "start": 1980,
+      "end": 1985,
+      "period": "1980-1985"
+    },
+    {
+      "name": "Alan García Pérez",
+      "start": 1985,
+      "end": 1990,
+      "period": "1985-1990"
+    },
+    {
+      "name": "Alberto Fujimori",
+      "start": 1990,
+      "end": 2000,
+      "period": "1990-2000"
+    },
+    {
+      "name": "Valentín Paniagua",
+      "start": 2000,
+      "end": 2001,
+      "period": "2000-2001"
+    },
+    {
+      "name": "Alejandro Toledo",
+      "start": 2001,
+      "end": 2006,
+      "period": "2001-2006"
+    },
+    {
+      "name": "Alan García Pérez",
+      "start": 2006,
+      "end": 2011,
+      "period": "2006-2011"
+    },
+    {
+      "name": "Ollanta Humala",
+      "start": 2011,
+      "end": 2016,
+      "period": "2011-2016"
+    },
+    {
+      "name": "Pedro Pablo Kuczynski",
+      "start": 2016,
+      "end": 2018,
+      "period": "2016-2018"
+    },
+    {
+      "name": "Martín Vizcarra",
+      "start": 2018,
+      "end": 2020,
+      "period": "2018-2020"
+    },
+    {
+      "name": "Francisco Sagasti",
+      "start": 2020,
+      "end": 2021,
+      "period": "2020-2021"
+    },
+    {
+      "name": "Manuel Merino",
+      "start": 2020,
+      "end": 2020,
+      "period": "2020",
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Gobierno extremadamente breve",
+        "Sin capacidad de consolidacion institucional",
+        "Renuncia inmediata tras protesta social"
+      ]
+    },
+    {
+      "name": "Pedro Castillo",
+      "start": 2021,
+      "end": 2022,
+      "period": "2021-2022",
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Intento de autogolpe",
+        "Condena por conspiracion / rebelion",
+        "Crisis politica y social de alto impacto"
+      ]
+    },
+    {
+      "name": "Dina Boluarte",
+      "start": 2022,
+      "end": 2024,
+      "period": "2022-2024"
+    },
+    {
+      "name": "José Enrique Jerí Oré",
+      "start": 2024,
+      "end": 2026,
+      "period": "2024-2026"
+    }
+  ],
+  "regionalAnalysis": [
+    {
+      "id": "costa",
+      "name": "Región Costa",
+      "geography": "Franja desértica estrecha a lo largo del océano Pacífico, con altitud de 0 a 500 metros.",
+      "population": "Aproximadamente 60% de la población peruana",
+      "majorCities": [
+        "Lima",
+        "Arequipa",
+        "Trujillo",
+        "Chiclayo"
+      ],
+      "economy": "Comercio, industria, agricultura irrigada, pesca, turismo",
+      "characteristics": [
+        "Clima desértico y templado",
+        "Mayor concentración urbana",
+        "Centro político y económico del país",
+        "Acceso a mercados internacionales"
+      ],
+      "politicalInfluence": "Domina la política nacional. Lima, como capital, concentra el poder político y económico. Tendencia hacia políticas liberales, reformistas y de centro-derecha. Mayor influencia de élites empresariales y profesionales.",
+      "culturalIdentity": "Mestiza, moderna, cosmopolita. Influencia española e internacional. Menor conexión con tradiciones indígenas.",
+      "socialComposition": "Clase media urbana, empresarios, trabajadores industriales, profesionales. Mayor acceso a educación y servicios.",
+      "electoralBehavior": "Vota por candidatos con propuestas modernistas, reformistas y de mercado. Menos receptiva a propuestas radicales."
+    },
+    {
+      "id": "sierra",
+      "name": "Región Sierra",
+      "geography": "Cordillera de los Andes, con altitudes entre 2,500 y 6,768 metros. Incluye valles interandinos.",
+      "population": "Aproximadamente 30% de la población peruana",
+      "majorCities": [
+        "Cusco",
+        "Ayacucho",
+        "Huancayo",
+        "Cajamarca"
+      ],
+      "economy": "Agricultura de subsistencia, ganadería, minería, turismo, artesanía",
+      "characteristics": [
+        "Clima frío y variado según altitud",
+        "Población predominantemente rural",
+        "Fuerte identidad indígena quechua",
+        "Menor acceso a servicios básicos"
+      ],
+      "politicalInfluence": "Históricamente marginada del poder central. Vota por candidatos que prometen redistribución de recursos y reivindicación indígena. Receptiva a propuestas de izquierda y cambio radical. Base electoral de movimientos populistas y de izquierda.",
+      "culturalIdentity": "Fuertemente indígena quechua. Mantiene tradiciones ancestrales, idioma quechua, cosmovisión andina. Identidad comunitaria y colectiva.",
+      "socialComposition": "Campesinos, pequeños agricultores, artesanos, mineros. Altos niveles de pobreza y desigualdad. Menor acceso a educación formal.",
+      "electoralBehavior": "Vota por candidatos que prometen cambios estructurales y redistribución. Apoyo a movimientos de izquierda y candidatos anti-establishment. Movilización comunitaria y voto corporativo."
+    },
+    {
+      "id": "selva",
+      "name": "Región Selva",
+      "geography": "Bosque tropical amazónico, con altitudes de 0 a 1,000 metros. Cuenca del Amazonas.",
+      "population": "Aproximadamente 10% de la población peruana",
+      "majorCities": [
+        "Iquitos",
+        "Pucallpa",
+        "Tarapoto",
+        "Puerto Maldonado"
+      ],
+      "economy": "Extracción de recursos naturales, agricultura, ganadería, turismo ecológico, comercio",
+      "characteristics": [
+        "Clima tropical húmedo",
+        "Baja densidad poblacional",
+        "Presencia de comunidades indígenas",
+        "Riqueza en biodiversidad y recursos naturales"
+      ],
+      "politicalInfluence": "Históricamente aislada y poco representada en política nacional. Creciente influencia en debates sobre medio ambiente y recursos naturales. Vota por candidatos que prometen desarrollo regional y explotación de recursos.",
+      "culturalIdentity": "Indígena amazónica diversa. Múltiples etnias con idiomas propios. Conexión profunda con la naturaleza y el bosque. Cosmovisión diferenciada de la andina.",
+      "socialComposition": "Comunidades indígenas, colonos, trabajadores de extracción, pequeños comerciantes. Acceso limitado a servicios y educación.",
+      "electoralBehavior": "Vota por candidatos que prometen desarrollo e inversión regional. Interés en explotación de recursos naturales. Menos participación electoral debido al aislamiento geográfico."
+    }
+  ],
+  "presidentialAnalysis": [
+    {
+      "name": "Jose de la Riva-Agüero",
+      "period": "1823",
+      "party": "Primer republicanismo",
+      "ideology": "Caudillismo inicial",
+      "causes": "La republica nacio entre guerras, facciones y ausencia de instituciones solidas. El poder quedo atrapado entre elites militares y regionales que competian por el control del nuevo Estado.",
+      "positivos": [
+        "Fue el primer presidente de la republica peruana",
+        "Ayudo a formalizar la jefatura del nuevo Estado",
+        "Marco el paso simbolico de la independencia a la republica"
+      ],
+      "negativos": [
+        "Gobierno extremadamente debil y sin control territorial real",
+        "Caos politico entre facciones militares y civiles",
+        "Dependencia de caudillos y ausencia de institucionalidad",
+        "La Costa concentro el poder, mientras la Sierra quedo fuera de la decision politica",
+        "La inestabilidad impidio construir economia, justicia o administracion duradera"
+      ],
+      "impactoRegional": {
+        "costa": "Lima siguio siendo el centro de la disputa politica y administrativa.",
+        "sierra": "La region quedo subordinada a una republica fragil y centralista.",
+        "selva": "Practicamente no hubo presencia estatal efectiva ni integracion."
+      }
+    },
+    {
+      "name": "Ramon Castilla",
+      "period": "1845-1862",
+      "party": "Caudillismo militar",
+      "ideology": "Conservadurismo pragmatico",
+      "causes": "Asumio en una republica todavia inestable, sostenida por rentas del guano y por la logica del caudillo militar como garante del orden.",
+      "positivos": [
+        "Abolicion de la esclavitud",
+        "Supresion del tributo indigena",
+        "Impulso de obras publicas y modernizacion estatal",
+        "Fortalecimiento momentaneo de ingresos fiscales por el guano"
+      ],
+      "negativos": [
+        "El modelo dependio de una riqueza extractiva agotable y mal distribuida",
+        "El Estado siguio siendo centralista y excluyente",
+        "El progreso quedo atado a caudillos y no a instituciones solidas",
+        "La Costa se beneficio mas que las regiones andinas y amazónicas",
+        "La desigualdad estructural no desaparecio, solo fue administrada"
+      ],
+      "impactoRegional": {
+        "costa": "Lima y los puertos recibieron la mayor parte del impulso economico y politico.",
+        "sierra": "La inclusion fue parcial y la brecha social siguio intacta.",
+        "selva": "Quedo al margen del proyecto estatal y del reparto de recursos."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Caudillismo pragmatico",
+        "Dependencia de renta extractiva"
+      ]
+    },
+    {
+      "name": "Augusto B. Leguia",
+      "period": "1908-1930",
+      "party": "Patria Nueva",
+      "ideology": "Modernizacion autoritaria",
+      "causes": "Llego con la promesa de modernizar el pais, pero convirtio la reforma en un proyecto personalista apoyado en la reeleccion y el control politico.",
+      "positivos": [
+        "Impulso obras publicas, carreteras y urbanizacion",
+        "Promovio una imagen de modernizacion y expansion estatal",
+        "Aumento del peso de Lima como centro administrativo"
+      ],
+      "negativos": [
+        "Concentro poder y debilito los contrapesos democraticos",
+        "Persecucion politica a opositores y sindicatos",
+        "Endeudamiento con capital extranjero",
+        "Centralismo que profundizo la brecha regional",
+        "El proyecto de modernizacion beneficio primero a elites urbanas",
+        "La caida del regimen dejo fragilidad economica y politica"
+      ],
+      "impactoRegional": {
+        "costa": "La capital concentro infraestructura y poder, reforzando su dominio sobre el pais.",
+        "sierra": "La integracion fue parcial y subordinada a intereses centralistas.",
+        "selva": "Siguio siendo periferica, con muy baja inversion publica."
+      },
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Concentracion autoritaria del poder",
+        "Persecucion politica",
+        "Endeudamiento"
+      ]
+    },
+    {
+      "name": "Luis M. Sanchez Cerro",
+      "period": "1930-1933",
+      "party": "Union Revolucionaria",
+      "ideology": "Militarismo autoritario",
+      "causes": "Su ascenso respondio al colapso del leguiismo y al miedo de las elites frente a la agitacion social y el crecimiento de la izquierda.",
+      "positivos": [
+        "Intento restablecer un orden tras la caida de Leguia",
+        "Busco recomponer la autoridad estatal en medio de crisis"
+      ],
+      "negativos": [
+        "Gobierno marcado por violencia politica y represion",
+        "Hostilidad abierta contra opositores y apristas",
+        "Inestabilidad institucional extrema",
+        "Militarizacion de la vida publica",
+        "El pais quedo atrapado entre caudillos, conspiraciones y miedo social"
+      ],
+      "impactoRegional": {
+        "costa": "La disputa por el poder se concentro en Lima y erosiono la gobernabilidad.",
+        "sierra": "No hubo una agenda real de integracion social o economica.",
+        "selva": "Siguio excluida del debate nacional."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Militarismo autoritario",
+        "Violencia politica"
+      ]
+    },
+    {
+      "name": "Oscar R. Benavides",
+      "period": "1933-1939",
+      "party": "Gobierno militar",
+      "ideology": "Autoritarismo de orden",
+      "causes": "Tomó el poder como respuesta al asesinato de Sanchez Cerro y a una republica agotada por la violencia partidaria.",
+      "positivos": [
+        "Aporto una relativa estabilizacion tras un periodo caotico",
+        "Busco ordenar la administracion publica",
+        "Redujo algunos niveles de conflicto abierto"
+      ],
+      "negativos": [
+        "Gobierno autoritario con censura y persecucion politica",
+        "Limitacion de libertades civiles",
+        "Pacto de orden basado en silencio y control, no en democracia",
+        "El centralismo siguio intacto y las regiones siguieron subordinadas"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad fue mas aparente que transformadora, concentrada en Lima.",
+        "sierra": "Persistieron la marginalidad y la falta de reforma social.",
+        "selva": "Casi sin presencia estatal efectiva."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Autoritarismo de orden",
+        "Censura politica"
+      ]
+    },
+    {
+      "name": "Jose Luis Bustamante y Rivero",
+      "period": "1945-1948",
+      "party": "Frente Democratico Nacional",
+      "ideology": "Democracia reformista",
+      "causes": "Fue elegido en una apertura democratica, pero el pais ya estaba polarizado entre aprismo, militares y elites temerosas de perder poder.",
+      "positivos": [
+        "Apertura democratica y respeto institucional inicial",
+        "Intento de ampliar la participacion politica",
+        "Discurso juridico y civilista"
+      ],
+      "negativos": [
+        "Gobierno asediado por la polarizacion y el sabotaje politico",
+        "Incapacidad para contener la crisis entre militares y APRA",
+        "Debilidad para gobernar en un clima de confrontacion permanente",
+        "El proyecto democratico quedo sin respaldo suficiente del poder real"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis politica se reflejo con fuerza en Lima.",
+        "sierra": "Las reformas no llegaron a consolidarse en el interior.",
+        "selva": "Siguio fuera del centro de la agenda estatal."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Gobernabilidad fragil",
+        "Polarizacion extrema"
+      ]
+    },
+    {
+      "name": "Manuel A. Odria",
+      "period": "1948-1956",
+      "party": "Gobierno militar",
+      "ideology": "Populismo autoritario",
+      "causes": "Llego por golpe de Estado en un contexto de crisis y miedo al aprismo; prometio orden, pero gobernó con represión y patronazgo.",
+      "positivos": [
+        "Impulso obras publicas y crecimiento urbano",
+        "Generacion de empleo y gasto estatal en infraestructura",
+        "Sensacion de orden para algunos sectores urbanos"
+      ],
+      "negativos": [
+        "Dictadura con persecucion politica y censura",
+        "Uso del Estado para castigar opositores",
+        "Clientelismo y corrupcion en el aparato publico",
+        "Modelo de orden que oculto desigualdades estructurales",
+        "Las regiones quedaron subordinadas a la logica de la capital"
+      ],
+      "impactoRegional": {
+        "costa": "Lima recibio la mayor parte de obras y concentracion de recursos.",
+        "sierra": "La inclusion fue limitada y muy desigual.",
+        "selva": "Siguio periferica frente a un Estado centralista."
+      },
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Dictadura",
+        "Persecucion politica",
+        "Clientelismo"
+      ]
+    },
+    {
+      "name": "Fernando Belaunde Terry",
+      "period": "1963-1968",
+      "party": "Accion Popular",
+      "ideology": "Reformismo democratico",
+      "causes": "Llego al poder con promesas de modernizacion, infraestructura y integracion territorial en un pais centralista y con fuerte brecha entre Lima y las regiones.",
+      "positivos": [
+        "Impulso carreteras, vivienda y obras de infraestructura",
+        "Defendio la institucionalidad democratica frente al militarismo",
+        "Promovio integracion vial y presencia del Estado en regiones",
+        "Mantuvo un discurso modernizador y tecnico"
+      ],
+      "negativos": [
+        "La reforma agraria fue lenta e insuficiente para frenar el conflicto rural",
+        "La respuesta estatal a protestas campesinas y tensiones sociales fue debil o tardia",
+        "Persistio la desigualdad estructural entre Lima y el interior",
+        "La Sierra siguio acumulando frustracion por el retraso en tierra, servicios y representacion",
+        "El Estado no logro contener la conflictividad social y politica que crecia fuera de la Costa"
+      ],
+      "impactoRegional": {
+        "costa": "Se concentro la inversion y la gestion politica, pero sin resolver la desigualdad de fondo.",
+        "sierra": "La falta de respuesta a demandas agrarias y sociales agravo el resentimiento regional.",
+        "selva": "Recibio obras puntuales, pero siguio con baja presencia estatal y escasa integracion real."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Reforma lenta",
+        "Desigualdad persistente",
+        "Incapacidad para contener conflicto rural"
+      ]
+    },
+    {
+      "name": "Juan Velasco Alvarado",
+      "period": "1968-1975",
+      "party": "Junta Militar",
+      "ideology": "Nacionalismo militar de izquierda",
+      "causes": "Golpe de Estado contra Fernando Belaunde Terry. Respuesta a la desigualdad rural, la concentracion de tierras, el descontento militar y la presion social en la Sierra.",
+      "positivos": [
+        "Reforma agraria que rompio latifundios y dio tierras a campesinos",
+        "Reconocimiento del quechua y ampliacion del discurso sobre identidad andina",
+        "Nacionalizacion de sectores estrategicos",
+        "Expansion de educacion y salud en zonas excluidas",
+        "Mejoras temporales en salarios y derechos laborales"
+      ],
+      "negativos": [
+        "Autoritarismo y censura contra prensa y oposicion",
+        "Estado sobredimensionado e ineficiente que deterioro la economia",
+        "Endeudamiento e inflacion que golpearon el poder adquisitivo",
+        "Corrupcion y mala gestion en empresas estatales",
+        "Tension y violencia en el campo por una reforma impuesta desde arriba",
+        "La Costa perdio inversion privada y empleo en sectores productivos",
+        "La Selva siguio marginada y tratada como territorio de extraccion"
+      ],
+      "impactoRegional": {
+        "costa": "La centralizacion del Estado y las nacionalizaciones frenaron la inversion privada y golpearon a sectores exportadores y urbanos.",
+        "sierra": "Recibio el impacto mas fuerte de la reforma agraria, pero tambien sufrio desorden economico, presion estatal y violencia politica.",
+        "selva": "Continuo fuera del centro de decisiones; hubo extraccion de recursos sin beneficios reales para las comunidades locales."
+      }
+    },
+    {
+      "name": "Francisco Morales Bermudez",
+      "period": "1975-1980",
+      "party": "Junta Militar",
+      "ideology": "Militarismo de transicion",
+      "causes": "Asumio tras el agotamiento del velasquismo, con la economia debilitada y la necesidad de salir del experimento militar sin perder control.",
+      "positivos": [
+        "Inicio la transicion de vuelta a elecciones",
+        "Desactivo parte de la agenda estatista mas radical",
+        "Preparó la salida formal del regimen militar"
+      ],
+      "negativos": [
+        "Ajuste economico duro con costo social alto",
+        "Represion y persecucion a opositores",
+        "Transicion lenta y tutelada por militares",
+        "Herencia de crisis fiscal y desorden institucional",
+        "La poblacion pago el costo de decisiones tomadas sin control democratico"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis economica golpeo empleo y salarios urbanos.",
+        "sierra": "La austeridad profundizo la precariedad rural.",
+        "selva": "Siguio relegada y con poca atencion estatal."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Transicion tutelada",
+        "Ajuste economico duro"
+      ]
+    },
+    {
+      "name": "Alan Garcia Perez (primer gobierno)",
+      "period": "1985-1990",
+      "party": "APRA",
+      "ideology": "Populismo economico",
+      "causes": "Llego con el discurso de romper con el ajuste y redistribuir riqueza tras anos de crisis, deuda y desigualdad.",
+      "positivos": [
+        "Aumento inicial de salarios y gasto social",
+        "Discurso de soberania economica frente al FMI",
+        "Apoyo inicial en sectores populares y rurales",
+        "Expansiones puntuales en servicios publicos"
+      ],
+      "negativos": [
+        "Hiperinflacion devastadora que destruyo ahorros y salarios",
+        "Colapso fiscal, desabastecimiento y perdida de confianza internacional",
+        "Corrupcion y clientelismo en varias capas del Estado",
+        "Aumento de la violencia politica y debilitamiento de la capacidad estatal",
+        "La Costa urbana sufrio desempleo, escasez y caos economico",
+        "La Sierra vivio abandono, pobreza y mayor exposicion a Sendero Luminoso",
+        "La Selva quedo relegada y sin respuestas sostenibles"
+      ],
+      "impactoRegional": {
+        "costa": "Lima y otras ciudades concentraron la crisis economica, el desabastecimiento y el deterioro de los servicios.",
+        "sierra": "La pobreza, la violencia y la ausencia estatal se profundizaron en comunidades rurales.",
+        "selva": "Predominaron el olvido institucional y la explotacion de recursos sin desarrollo local."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Hiperinflacion",
+        "Colapso fiscal",
+        "Desorden estatal"
+      ]
+    },
+    {
+      "name": "Alberto Fujimori",
+      "period": "1990-2000",
+      "party": "Cambio 90",
+      "ideology": "Autoritarismo neoliberal",
+      "causes": "Fue elegido para contener la hiperinflacion, la violencia terrorista y el colapso del Estado; luego concentro poder con el autogolpe de 1992.",
+      "positivos": [
+        "Control de la inflacion con medidas de choque",
+        "Captura de Abimael Guzman y golpe al terrorismo",
+        "Modernizacion de infraestructura urbana y de comunicaciones",
+        "Recuperacion macroeconomica en parte de la decada"
+      ],
+      "negativos": [
+        "Autogolpe de 1992 y ruptura del orden democratico",
+        "Red de corrupcion y captura institucional alrededor de Montesinos",
+        "Masacres y graves violaciones de derechos humanos",
+        "Esterilizaciones forzadas a mujeres andinas e indigenas",
+        "Concentracion del poder, miedo politico y debilitamiento de la prensa",
+        "La Sierra fue la mas golpeada por la violencia estatal y el abandono",
+        "La Selva quedo expuesta a extraccion sin proteccion ambiental"
+      ],
+      "impactoRegional": {
+        "costa": "La inversion y la estabilidad macroeconomica beneficiaron a Lima, pero el poder quedo centralizado y corrompido.",
+        "sierra": "Sufrio con mas fuerza la represion, las esterilizaciones forzadas y el abandono social.",
+        "selva": "La extraccion de recursos siguio sin controles robustos ni beneficios equivalentes."
+      },
+      "riskLevel": "ALTO",
+      "riskSignals": [
+        "Autogolpe",
+        "Corrupcion",
+        "Violaciones de derechos humanos"
+      ]
+    },
+    {
+      "name": "Valentin Paniagua",
+      "period": "2000-2001",
+      "party": "Accion Popular",
+      "ideology": "Transicion democratica",
+      "causes": "Asumio tras el colapso del fujimorismo y la necesidad urgente de restaurar legitimidad institucional.",
+      "positivos": [
+        "Restablecio la legalidad despues de la crisis fujimorista",
+        "Impulso una transicion limpia y breve",
+        "Reabrio el camino para elecciones competitivas"
+      ],
+      "negativos": [
+        "Gobierno transitorio con margen minimo de reforma",
+        "Instituciones aun debilitadas por corrupcion y captura previa",
+        "La crisis estructural del Estado siguio intacta"
+      ],
+      "impactoRegional": {
+        "costa": "La transicion apaciguo la crisis politica en Lima.",
+        "sierra": "Las regiones siguieron esperando reparacion y reforma real.",
+        "selva": "El cambio de gobierno no altero la exclusion historica."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Transicion institucional",
+        "Riesgo politico bajo relativo"
+      ]
+    },
+    {
+      "name": "Alejandro Toledo",
+      "period": "2001-2006",
+      "party": "Peru Posible",
+      "ideology": "Centro liberal",
+      "causes": "Asumio tras la caida del fujimorismo con una demanda social de democracia, anticorrupcion y recuperacion economica.",
+      "positivos": [
+        "Restitucion de la democracia y de la confianza institucional",
+        "Estabilidad macroeconomica y continuidad del crecimiento",
+        "Ampliacion de programas sociales y obras regionales",
+        "Mayor apertura a agendas de descentralizacion"
+      ],
+      "negativos": [
+        "Promesas de cambio regional que avanzaron mas lento que el centralismo historico",
+        "Casos de corrupcion y redes de influencia que erosionaron su legado",
+        "Conflictos sociales por mineria y energia sin solucion durable",
+        "Desigualdad persistente pese al crecimiento economico",
+        "La Costa siguio concentrando el poder y los beneficios",
+        "La Sierra sintio que la descentralizacion era mas simbolica que real",
+        "La Selva continuo con presencia estatal debil y conflictos extractivos"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad macroeconomica favorecio inversiones, pero no desarmo la concentracion del poder en Lima.",
+        "sierra": "Recibio obras y programas, aunque la desigualdad y los conflictos por recursos continuaron.",
+        "selva": "Persistio la brecha de servicios y la tension entre desarrollo y extraccion."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Corrupcion posterior",
+        "Desigualdad persistente"
+      ]
+    },
+    {
+      "name": "Alan Garcia Perez (segundo gobierno)",
+      "period": "2006-2011",
+      "party": "APRA",
+      "ideology": "Pragmatismo pro mercado",
+      "causes": "Regreso al poder con un discurso moderado y la promesa de crecimiento, inversion y orden institucional.",
+      "positivos": [
+        "Crecimiento economico elevado en el contexto de bonanza externa",
+        "Impulso de infraestructura y promocion de inversiones",
+        "Programas sociales y expansion del gasto publico",
+        "Mayor integracion comercial internacional"
+      ],
+      "negativos": [
+        "Modelo extractivista que concentro ganancias y costos sociales",
+        "Conflictos graves con comunidades indigenas y rurales, incluyendo Bagua",
+        "Corrupcion y sospechas sobre redes de influencia",
+        "Debilidad para controlar impactos ambientales y territoriales",
+        "La Costa y Lima acumularon mas beneficios que las regiones",
+        "La Sierra y la Selva absorbieron los conflictos mas destructivos",
+        "La confianza en el Estado se deterioro en zonas rurales"
+      ],
+      "impactoRegional": {
+        "costa": "El crecimiento se concentro en Lima y ciudades costeras con menos redistribucion real.",
+        "sierra": "El conflicto social por proyectos extractivos se intensifico y dejo heridas politicas.",
+        "selva": "Bagua simbolizo la fractura entre desarrollo prometido y derechos territoriales."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Extractivismo conflictivo",
+        "Violencia social",
+        "Corrupcion"
+      ]
+    },
+    {
+      "name": "Ollanta Humala",
+      "period": "2011-2016",
+      "party": "Gana Peru",
+      "ideology": "Nacionalismo de izquierda moderada",
+      "causes": "Gano con respaldo de regiones andinas y sectores que exigian redistribucion, inclusion social y freno al abuso extractivo.",
+      "positivos": [
+        "Expansion de bonos y programas sociales",
+        "Reduccion de pobreza en varios indicadores",
+        "Mayor discurso de inclusion rural e indigena",
+        "Crecimiento economico aun en contexto regional dificil"
+      ],
+      "negativos": [
+        "Giro moderado que fue visto como traicion por parte de su base",
+        "Conflictos mineros persistentes y respuestas estatales duras",
+        "Corrupcion y financiamiento irregular que ensuciaron su administracion",
+        "Persistencia del modelo extractivo sin reforma profunda",
+        "La Sierra siguio cargando con la conflictividad social",
+        "La Selva no recibio una proteccion ambiental suficiente",
+        "La Costa consolido la sensacion de que todo se decidia desde Lima"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad economica tranquilizo a los mercados, pero no redujo el centralismo.",
+        "sierra": "Las bases rurales se sintieron usadas y luego relegadas; crecieron los conflictos mineros.",
+        "selva": "La presion sobre territorios y bosques continuo con debil control estatal."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Giro politico ambiguo",
+        "Conflicto minero persistente"
+      ]
+    },
+    {
+      "name": "Pedro Pablo Kuczynski",
+      "period": "2016-2018",
+      "party": "Peruanos por el Kambio",
+      "ideology": "Tecnocracia liberal",
+      "causes": "Llego como opcion de mercado y anticontinuismo fujimorista, con promesa de gestion tecnica y estabilidad.",
+      "positivos": [
+        "Mantencion de estabilidad macroeconomica",
+        "Reputacion tecnica ante inversionistas",
+        "Continuidad de obras y programas ya en marcha"
+      ],
+      "negativos": [
+        "Escasa base politica y gobernabilidad fragil",
+        "Vinculos con casos de corrupcion que terminaron por hundir su presidencia",
+        "Bloqueo permanente con el Congreso",
+        "Imposibilidad de impulsar reformas de fondo",
+        "La Costa no vio una solucion real a la crisis politica",
+        "La Sierra y la Selva siguieron esperando una presencia estatal mas fuerte"
+      ],
+      "impactoRegional": {
+        "costa": "La estabilidad economica no alcanzo para frenar la crisis politica y el desgaste institucional.",
+        "sierra": "La distancia con el centro politico siguio igual y las reformas regionales quedaron cortas.",
+        "selva": "Persistieron los problemas de infraestructura, salud y acceso estatal."
+      },
+      "riskLevel": "MEDIO",
+      "riskSignals": [
+        "Gobernabilidad fragil",
+        "Vinculos con corrupcion"
+      ]
+    },
+    {
+      "name": "Martin Vizcarra",
+      "period": "2018-2020",
+      "party": "Sin partido solido",
+      "ideology": "Anticorrupcion institucional",
+      "causes": "Asumio tras la renuncia de PPK y capitalizo el cansancio ciudadano frente a la corrupcion y el bloqueo legislativo.",
+      "positivos": [
+        "Agenda anticorrupcion y enfrentamiento al abuso parlamentario",
+        "Impulso de reformas politicas",
+        "Respuesta inicial de gestion durante la pandemia",
+        "Mayor legitimidad temporal frente a una clase politica desgastada"
+      ],
+      "negativos": [
+        "Profunda inestabilidad politica y abuso de la herramienta de disolucion del Congreso",
+        "Gestion irregular durante la pandemia y crisis de salud",
+        "Acusaciones de corrupcion que terminaron por destruir su imagen",
+        "Poca capacidad para construir partidos o acuerdos duraderos",
+        "La Costa y Lima concentraron otra vez la pelea politica",
+        "La Sierra y la Selva sufrieron con fuerza los limites del sistema de salud"
+      ],
+      "impactoRegional": {
+        "costa": "La crisis politica se concentro en Lima y reflejo la debilidad de las instituciones.",
+        "sierra": "La pandemia expuso la fragilidad sanitaria y la falta de presencia estatal.",
+        "selva": "Las brechas de salud, transporte y conectividad quedaron en evidencia."
+      },
+      "riskLevel": "ALTO",
+      "riskSignals": [
+        "Condenado a 14 anos de prision por sobornos en 2025",
+        "Caso de corrupcion vinculado a su gestion como gobernador de Moquegua",
+        "Legado politico severamente erosionado por condena judicial"
+      ]
+    },
+    {
+      "name": "Manuel Merino",
+      "period": "2020",
+      "party": "Accion Popular",
+      "ideology": "Sucesion congresal",
+      "causes": "Asumio tras la vacancia de Vizcarra en un clima de desconfianza, percepcion de maniobra politica y ruptura de legitimidad.",
+      "positivos": [
+        "Cumplio formalmente con la sucesion constitucional",
+        "Reflejo la presion por resolver el vacio de poder"
+      ],
+      "negativos": [
+        "Gobierno sin legitimidad social",
+        "Manejo represivo de protestas con muertes de manifestantes",
+        "Resigno en pocos dias por el rechazo nacional",
+        "Dejo en evidencia la fragilidad institucional del pais",
+        "La Costa, sobre todo Lima, concentro la protesta mas fuerte",
+        "La Sierra y la Selva leyeron el episodio como captura de poder por elites"
+      ],
+      "impactoRegional": {
+        "costa": "Las protestas urbanas derrumbaron el gobierno en muy poco tiempo.",
+        "sierra": "Se amplio la desconfianza frente a las maniobras politicas del centro.",
+        "selva": "La crisis reafirmo la sensacion de abandono politico."
+      },
+      "riskLevel": "BAJO",
+      "riskSignals": [
+        "Gobierno de 5 dias",
+        "Sin base politica durable",
+        "Caida inmediata por protesta social y crisis de legitimidad"
+      ]
+    },
+    {
+      "name": "Pedro Castillo",
+      "period": "2021-2022",
+      "party": "Peru Libre",
+      "ideology": "Izquierda radical",
+      "causes": "Fue elegido por el voto rural y antiestablishment, impulsado por el hartazgo frente a Lima, la desigualdad y la falta de representacion regional.",
+      "positivos": [
+        "Dio voz politica a sectores rurales y docentes historicamente marginados",
+        "Reabrio el debate sobre desigualdad territorial",
+        "Puso en agenda la reforma del Estado y la inclusion social"
+      ],
+      "negativos": [
+        "Falta de experiencia y caos administrativo desde el inicio",
+        "Corrupcion y designaciones inestables que destruyeron su gobernabilidad",
+        "Polarizacion extrema con Congreso, prensa y sectores productivos",
+        "Intento de autogolpe que termino de quebrar el orden constitucional",
+        "La Sierra paso rapidamente de la esperanza al desencanto y la protesta",
+        "La Costa vio aumentar el miedo economico y la inestabilidad",
+        "La Selva siguio sin una politica clara de desarrollo"
+      ],
+      "impactoRegional": {
+        "costa": "El rechazo de elites y mercados aumento la inestabilidad politica y economica.",
+        "sierra": "Su base social se sintio traicionada por la improvisacion, la crisis y la violencia posterior.",
+        "selva": "Las promesas de cambio no se tradujeron en presencia efectiva del Estado."
+      },
+      "riskLevel": "CRITICO",
+      "riskSignals": [
+        "Intento de autogolpe y disolucion del Congreso",
+        "Condenado por rebelion / conspiracion y en custodia",
+        "Acusaciones politicas sobre influencias externas no corroboradas por una sentencia"
+      ]
+    },
+    {
+      "name": "Dina Boluarte",
+      "period": "2022-2024",
+      "party": "Peru Libre (luego independiente)",
+      "ideology": "Continuismo institucional",
+      "causes": "Asumio tras la ruptura provocada por Castillo, en medio de una crisis de legitimidad, protestas masivas y polarizacion nacional.",
+      "positivos": [
+        "Mantuvo la sucesion constitucional y evito un vacio total de poder",
+        "Reabrio algunos canales de dialogo institucional",
+        "Logro una estabilidad relativa en medio de la crisis"
+      ],
+      "negativos": [
+        "Represion de protestas con muertes y violencia estatal",
+        "Crisis de legitimidad que nunca se recupero",
+        "Investigaciones y sospechas de corrupcion",
+        "Respuesta debil frente a la inseguridad, crimen y desconfianza ciudadana",
+        "La Sierra fue la zona mas golpeada por la represion y el resentimiento",
+        "La Costa mantuvo alta polarizacion y rechazo politico",
+        "La Selva continuo con poca presencia estatal y problemas de control territorial"
+      ],
+      "impactoRegional": {
+        "costa": "Predomino la polarizacion politica y la sensacion de crisis permanente.",
+        "sierra": "Las protestas y la respuesta violenta agravaron la ruptura con el poder central.",
+        "selva": "Persistieron la exclusion, el delito y la debilidad de los servicios publicos."
+      },
+      "riskLevel": "ALTO",
+      "riskSignals": [
+        "Represion de protestas",
+        "Crisis de legitimidad",
+        "Sospechas de corrupcion"
+      ]
+    }
+  ]
+}
